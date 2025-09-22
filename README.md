@@ -3,9 +3,9 @@ A collection of wallpapers that I found off the internet
 
 **Disclaimer: I do not own or claim any of the images in this collection. These wallpapers are intended solely for personal use or for use in forks of this repository. I cannot be held responsible for any copyright claims if the content is used for commercial purposes. (specifically by anyone who uses this repo)**
 
-## Collection
+## Preview (can get laggy if you're viewing on a bad network or browser)
 
-Computer:
+- Computer:
 | Preview | Filename | Preview | Filename |
 |---------|----------|---------|----------|
 | [![adapta](Computer/adapta.png)](Computer/adapta.png) | adapta.png | [![adaptive](Computer/adaptive.jpg)](Computer/adaptive.jpg) | adaptive.jpg |
