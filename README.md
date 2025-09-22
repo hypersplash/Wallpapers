@@ -5,7 +5,7 @@ A collection of wallpapers that I found off the internet
 
 ## Preview (can get laggy if you're viewing on a bad network or browser)
 
-- Computer:
+Computer:
 | Preview | Filename | Preview | Filename |
 |---------|----------|---------|----------|
 | [![adapta](Computer/adapta.png)](Computer/adapta.png) | adapta.png | [![adaptive](Computer/adaptive.jpg)](Computer/adaptive.jpg) | adaptive.jpg |
