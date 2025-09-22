@@ -8,7 +8,7 @@ A collection of wallpapers that I found off the internet
 Computer:
 | Preview | Filename | Preview | Filename |
 |---------|----------|---------|----------|
-| [![adapta](adapta.png)](adapta.png) | adapta.png | [![adaptive](adaptive.jpg)](adaptive.jpg) | adaptive.jpg |
+| [![adapta](Computer/adapta.png)](Computer/adapta.png) | adapta.png | [![adaptive](adaptive.jpg)](adaptive.jpg) | adaptive.jpg |
 | [![adaptive](adaptive.png)](adaptive.png) | adaptive.png | [![arc](arc.png)](arc.png) | arc.png |
 | [![asian-village](asian-village.png)](asian-village.png) | asian-village.png | [![astronaut](astronaut.png)](astronaut.png) | astronaut.png |
 | [![beach](beach.jpg)](beach.jpg) | beach.jpg | [![bird](bird.png)](bird.png) | bird.png |
