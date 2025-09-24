@@ -143,6 +143,11 @@ Computer:
 | [![waves](Computer/waves.png)](Computer/waves.png) | waves.png | [![wheat](Computer/wheat.png)](Computer/wheat.png) | wheat.png |
 | [![white](Computer/white.png)](Computer/white.png) | white.png | | |
 
+Phone:
+| Preview | Filename | Preview | Filename |
+|---------|----------|---------|----------|
+| [![oneshot-wm](Phone/oneshot-wm.png)](Phone/oneshot-wm.png) | oneshot-wm.png | [![oneshot-wm-en](Phone/oneshot-wm-en.png)](Phone/oneshot-wm-en.png) | oneshot-wm-en.jpg |
+
 ---
 
 **Disclaimer: I do not own, claim ownership of, or hold any intellectual property rights to the images contained in this collection. These materials are provided exclusively for personal, non-commercial use and for incorporation into authorized forks of this repository. All images have been lawfully obtained through legitimate channels and are distributed in strict compliance with applicable copyright laws, fair use provisions, and licensing agreements. Users who access, download, fork, or otherwise utilize materials from this repository do so independently as third parties without any form of endorsement, authorization, or agency relationship with the repository maintainer. Each user assumes complete and sole responsibility for ensuring their intended use complies with all applicable intellectual property laws, licensing requirements, and jurisdictional regulations governing their specific use case. The repository maintainer hereby expressly disclaims, to the fullest extent permitted by law, any and all liability, responsibility, or legal obligation for copyright infringement claims, intellectual property disputes, licensing violations, legal actions, damages, or any other consequences arising from users' application, modification, distribution, or commercialization of these materials beyond the explicitly permitted scope of personal use. Any commercial use, public distribution, modification for profit, or incorporation into commercial products or services is undertaken entirely at the user's own risk and constitutes their independent legal responsibility without recourse to the repository maintainer.**
