@@ -5,180 +5,233 @@ A collection of wallpapers that I found off the internet
 
 Computer:
 | Preview | Filename | Preview | Filename |
-|---------|----------|---------|----------|
-| [![adapta](Computer/adapta.png)](Computer/adapta.png) | adapta.png | [![adaptive](Computer/adaptive.jpg)](Computer/adaptive.jpg) | adaptive.jpg |
-| [![adaptive](Computer/adaptive.png)](Computer/adaptive.png) | adaptive.png | [![arc](Computer/arc.png)](Computer/arc.png) | arc.png |
-| [![asian-village](Computer/asian-village.png)](Computer/asian-village.png) | asian-village.png | [![astronaut](Computer/astronaut.png)](Computer/astronaut.png) | astronaut.png |
-| [![beach](Computer/beach.jpg)](Computer/beach.jpg) | beach.jpg | [![bird](Computer/bird.png)](Computer/bird.png) | bird.png |
-| [![black-hole](Computer/black-hole.png)](Computer/black-hole.png) | black-hole.png | [![blade](Computer/blade.jpg)](Computer/blade.jpg) | blade.jpg |
-| [![blue-kaiju](Computer/blue-kaiju.png)](Computer/blue-kaiju.png) | blue-kaiju.png | [![blue-landscape](Computer/blue-landscape.png)](Computer/blue-landscape.png) | blue-landscape.png |
-| [![blueprint](Computer/blueprint.png)](Computer/blueprint.png) | blueprint.png | [![bouquet](Computer/bouquet.jpg)](Computer/bouquet.jpg) | bouquet.jpg |
-| [![bsod](Computer/bsod.png)](Computer/bsod.png) | bsod.png | [![bunnies-road](Computer/bunnies-road.png)](Computer/bunnies-road.png) | bunnies-road.png |
-| [![cabin-3](Computer/cabin-3.png)](Computer/cabin-3.png) | cabin-3.png | [![cabin-4](Computer/cabin-4.png)](Computer/cabin-4.png) | cabin-4.png |
-| [![cabin](Computer/cabin.png)](Computer/cabin.png) | cabin.png | [![car-1](Computer/car-1.png)](Computer/car-1.png) | car-1.png |
-| [![cartoon-castle](Computer/cartoon-castle.png)](Computer/cartoon-castle.png) | cartoon-castle.png | [![car-wreck](Computer/car-wreck.png)](Computer/car-wreck.png) | car-wreck.png |
-| [![castle](Computer/castle.png)](Computer/castle.png) | castle.png | [![cat-in-clouds](Computer/cat-in-clouds.png)](Computer/cat-in-clouds.png) | cat-in-clouds.png |
-| [![cat-vibin](Computer/cat-vibin.png)](Computer/cat-vibin.png) | cat-vibin.png | [![chess-gate](Computer/chess-gate.jpeg)](Computer/chess-gate.jpeg) | chess-gate.jpeg |
-| [![city-harbor](Computer/city-harbor.png)](Computer/city-harbor.png) | city-harbor.png | [![city](Computer/city.png)](Computer/city.png) | city.png |
-| [![clearing](Computer/clearing.png)](Computer/clearing.png) | clearing.png | [![clouds-2](Computer/clouds-2.png)](Computer/clouds-2.png) | clouds-2.png |
-| [![clouds-3](Computer/clouds-3.png)](Computer/clouds-3.png) | clouds-3.png | [![clouds](Computer/clouds.png)](Computer/clouds.png) | clouds.png |
-| [![coffee-shop](Computer/coffee-shop.png)](Computer/coffee-shop.png) | coffee-shop.png | [![cold-alley](Computer/cold-alley.png)](Computer/cold-alley.png) | cold-alley.png |
-| [![colors](Computer/colors.png)](Computer/colors.png) | colors.png | [![cottages-river](Computer/cottages-river.png)](Computer/cottages-river.png) | cottages-river.png |
-| [![crane](Computer/crane.png)](Computer/crane.png) | crane.png | [![cyberpunk](Computer/cyberpunk.jpg)](Computer/cyberpunk.jpg) | cyberpunk.jpg |
-| [![daisy](Computer/daisy.png)](Computer/daisy.png) | daisy.png | [![darcula](Computer/darcula.png)](Computer/darcula.png) | darcula.png |
-| [![dark-red](Computer/dark-red.png)](Computer/dark-red.png) | dark-red.png | [![day-forest-path](Computer/day-forest-path.png)](Computer/day-forest-path.png) | day-forest-path.png |
-| [![default](Computer/default.jpg)](Computer/default.jpg) | default.jpg | [![degirled](Computer/degirled.png)](Computer/degirled.png) | degirled.png |
-| [![disco](Computer/disco.png)](Computer/disco.png) | disco.png | [![dominik-mayer-18](Computer/dominik-mayer-18.png)](Computer/dominik-mayer-18.png) | dominik-mayer-18.png |
-| [![dracula](Computer/dracula.png)](Computer/dracula.png) | dracula.png | [![droplets](Computer/droplets.png)](Computer/droplets.png) | droplets.png |
-| [![eleven-dark](Computer/eleven-dark.jpg)](Computer/eleven-dark.jpg) | eleven-dark.jpg | [![eleven-gold](Computer/eleven-gold.jpg)](Computer/eleven-gold.jpg) | eleven-gold.jpg |
-| [![eleven](Computer/eleven.jpg)](Computer/eleven.jpg) | eleven.jpg | [![everforest](Computer/everforest.png)](Computer/everforest.png) | everforest.png |
-| [![extra-0](Computer/extra-0.jpg)](Computer/extra-0.jpg) | extra-0.jpg | [![extra-10](Computer/extra-10.png)](Computer/extra-10.png) | extra-10.png |
-| [![extra-11](Computer/extra-11.jpg)](Computer/extra-11.jpg) | extra-11.jpg | [![extra-12](Computer/extra-12.jpg)](Computer/extra-12.jpg) | extra-12.jpg |
-| [![extra-13](Computer/extra-13.jpg)](Computer/extra-13.jpg) | extra-13.jpg | [![extra-14](Computer/extra-14.jpg)](Computer/extra-14.jpg) | extra-14.jpg |
-| [![extra-15](Computer/extra-15.jpg)](Computer/extra-15.jpg) | extra-15.jpg | [![extra-16](Computer/extra-16.jpg)](Computer/extra-16.jpg) | extra-16.jpg |
-| [![extra-17](Computer/extra-17.jpg)](Computer/extra-17.jpg) | extra-17.jpg | [![extra-18](Computer/extra-18.jpg)](Computer/extra-18.jpg) | extra-18.jpg |
-| [![extra-19](Computer/extra-19.jpg)](Computer/extra-19.jpg) | extra-19.jpg | [![extra-1](Computer/extra-1.jpg)](Computer/extra-1.jpg) | extra-1.jpg |
-| [![extra-20](Computer/extra-20.jpg)](Computer/extra-20.jpg) | extra-20.jpg | [![extra-21](Computer/extra-21.jpg)](Computer/extra-21.jpg) | extra-21.jpg |
-| [![extra-22](Computer/extra-22.png)](Computer/extra-22.png) | extra-22.png | [![extra-3](Computer/extra-3.jpg)](Computer/extra-3.jpg) | extra-3.jpg |
-| [![extra-4](Computer/extra-4.jpg)](Computer/extra-4.jpg) | extra-4.jpg | [![extra-5](Computer/extra-5.jpg)](Computer/extra-5.jpg) | extra-5.jpg |
-| [![extra-6](Computer/extra-6.jpg)](Computer/extra-6.jpg) | extra-6.jpg | [![extra-7](Computer/extra-7.jpg)](Computer/extra-7.jpg) | extra-7.jpg |
-| [![extra-8](Computer/extra-8.jpg)](Computer/extra-8.jpg) | extra-8.jpg | [![extra-9](Computer/extra-9.jpg)](Computer/extra-9.jpg) | extra-9.jpg |
-| [![faded](Computer/faded.png)](Computer/faded.png) | faded.png | [![flower-branch](Computer/flower-branch.png)](Computer/flower-branch.png) | flower-branch.png |
-| [![flower-field-2](Computer/flower-field-2.png)](Computer/flower-field-2.png) | flower-field-2.png | [![flower-field-3](Computer/flower-field-3.png)](Computer/flower-field-3.png) | flower-field-3.png |
-| [![flowering-rain](Computer/flowering-rain.png)](Computer/flowering-rain.png) | flowering-rain.png | [![flowers-17](Computer/flowers-17.png)](Computer/flowers-17.png) | flowers-17.png |
-| [![flowers-21](Computer/flowers-21.png)](Computer/flowers-21.png) | flowers-21.png | [![flowers](Computer/flowers.jpg)](Computer/flowers.jpg) | flowers.jpg |
-| [![forest](Computer/forest.jpg)](Computer/forest.jpg) | forest.jpg | [![fox](Computer/fox.png)](Computer/fox.png) | fox.png |
-| [![frappe](Computer/frappe.png)](Computer/frappe.png) | frappe.png | [![genshin-landscape](Computer/genshin-landscape.png)](Computer/genshin-landscape.png) | genshin-landscape.png |
-| [![gentlemen-sunset](Computer/gentlemen-sunset.png)](Computer/gentlemen-sunset.png) | gentlemen-sunset.png | [![girl-stars](Computer/girl-stars.png)](Computer/girl-stars.png) | girl-stars.png |
-| [![gradient-10](Computer/gradient-10.jpg)](Computer/gradient-10.jpg) | gradient-10.jpg | [![gradient-11](Computer/gradient-11.jpg)](Computer/gradient-11.jpg) | gradient-11.jpg |
-| [![gradient-12](Computer/gradient-12.jpg)](Computer/gradient-12.jpg) | gradient-12.jpg | [![gradient-13](Computer/gradient-13.jpg)](Computer/gradient-13.jpg) | gradient-13.jpg |
-| [![gradient-14](Computer/gradient-14.jpg)](Computer/gradient-14.jpg) | gradient-14.jpg | [![gradient-15](Computer/gradient-15.jpg)](Computer/gradient-15.jpg) | gradient-15.jpg |
-| [![gradient-16](Computer/gradient-16.jpg)](Computer/gradient-16.jpg) | gradient-16.jpg | [![gradient-17](Computer/gradient-17.jpg)](Computer/gradient-17.jpg) | gradient-17.jpg |
-| [![gradient-18](Computer/gradient-18.jpg)](Computer/gradient-18.jpg) | gradient-18.jpg | [![gradient-19](Computer/gradient-19.jpg)](Computer/gradient-19.jpg) | gradient-19.jpg |
-| [![gradient-1](Computer/gradient-1.jpg)](Computer/gradient-1.jpg) | gradient-1.jpg | [![gradient-20](Computer/gradient-20.jpg)](Computer/gradient-20.jpg) | gradient-20.jpg |
-| [![gradient-21](Computer/gradient-21.jpg)](Computer/gradient-21.jpg) | gradient-21.jpg | [![gradient-22](Computer/gradient-22.jpg)](Computer/gradient-22.jpg) | gradient-22.jpg |
-| [![gradient-23](Computer/gradient-23.jpg)](Computer/gradient-23.jpg) | gradient-23.jpg | [![gradient-24](Computer/gradient-24.jpg)](Computer/gradient-24.jpg) | gradient-24.jpg |
-| [![gradient-25](Computer/gradient-25.jpg)](Computer/gradient-25.jpg) | gradient-25.jpg | [![gradient-26](Computer/gradient-26.jpg)](Computer/gradient-26.jpg) | gradient-26.jpg |
-| [![gradient-27](Computer/gradient-27.jpg)](Computer/gradient-27.jpg) | gradient-27.jpg | [![gradient-2](Computer/gradient-2.jpg)](Computer/gradient-2.jpg) | gradient-2.jpg |
-| [![gradient-3](Computer/gradient-3.jpg)](Computer/gradient-3.jpg) | gradient-3.jpg | [![gradient-4](Computer/gradient-4.jpg)](Computer/gradient-4.jpg) | gradient-4.jpg |
-| [![gradient-5](Computer/gradient-5.jpg)](Computer/gradient-5.jpg) | gradient-5.jpg | [![gradient-6](Computer/gradient-6.jpg)](Computer/gradient-6.jpg) | gradient-6.jpg |
-| [![gradient-7](Computer/gradient-7.jpg)](Computer/gradient-7.jpg) | gradient-7.jpg | [![gradient-8](Computer/gradient-8.jpg)](Computer/gradient-8.jpg) | gradient-8.jpg |
-| [![gradient-9](Computer/gradient-9.jpg)](Computer/gradient-9.jpg) | gradient-9.jpg | [![gray](Computer/gray.png)](Computer/gray.png) | gray.png |
-| [![green](Computer/green.png)](Computer/green.png) | green.png | [![groot](Computer/groot.jpg)](Computer/groot.jpg) | groot.jpg |
-| [![gruvbox-1](Computer/gruvbox-1.png)](Computer/gruvbox-1.png) | gruvbox-1.png | [![gruvbox](Computer/gruvbox.jpg)](Computer/gruvbox.jpg) | gruvbox.jpg |
-| [![gruvbox-light](Computer/gruvbox-light.png)](Computer/gruvbox-light.png) | gruvbox-light.png | [![gruvbox](Computer/gruvbox.png)](Computer/gruvbox.png) | gruvbox.png |
-| [![hack](Computer/hack.jpg)](Computer/hack.jpg) | hack.jpg | [![hack](Computer/hack.png)](Computer/hack.png) | hack.png |
-| [![harbor-3](Computer/harbor-3.png)](Computer/harbor-3.png) | harbor-3.png | [![hollow-knight](Computer/hollow-knight.png)](Computer/hollow-knight.png) | hollow-knight.png |
-| [![idk-tbh](Computer/idk-tbh.png)](Computer/idk-tbh.png) | idk-tbh.png | [![japan-alley](Computer/japan-alley.png)](Computer/japan-alley.png) | japan-alley.png |
-| [![jupiter](Computer/jupiter.png)](Computer/jupiter.png) | jupiter.png | [![kaiju](Computer/kaiju.png)](Computer/kaiju.png) | kaiju.png |
-| [![kanagawa](Computer/kanagawa.png)](Computer/kanagawa.png) | kanagawa.png | [![keyboard-2](Computer/keyboard-2.png)](Computer/keyboard-2.png) | keyboard-2.png |
-| [![keyboard](Computer/keyboard.png)](Computer/keyboard.png) | keyboard.png | [![keyboards](Computer/keyboards.jpg)](Computer/keyboards.jpg) | keyboards.jpg |
-| [![kitchen](Computer/kitchen.png)](Computer/kitchen.png) | kitchen.png | [![knight-building](Computer/knight-building.png)](Computer/knight-building.png) | knight-building.png |
-| [![knight-sit](Computer/knight-sit.png)](Computer/knight-sit.png) | knight-sit.png | [![kusuriya](Computer/kusuriya.png)](Computer/kusuriya.png) | kusuriya.png |
-| [![landscape](Computer/landscape.jpg)](Computer/landscape.jpg) | landscape.jpg | [![lantern-light-room](Computer/lantern-light-room.png)](Computer/lantern-light-room.png) | lantern-light-room.png |
-| [![lighthouse-2](Computer/lighthouse-2.png)](Computer/lighthouse-2.png) | lighthouse-2.png | [![light](Computer/light.jpg)](Computer/light.jpg) | light.jpg |
-| [![link-click-1](Computer/link-click-1.png)](Computer/link-click-1.png) | link-click-1.png | [![lit-up-sky](Computer/lit-up-sky.png)](Computer/lit-up-sky.png) | lit-up-sky.png |
-| [![macaw](Computer/macaw.png)](Computer/macaw.png) | macaw.png | [![macchiato](Computer/macchiato.png)](Computer/macchiato.png) | macchiato.png |
-| [![main-street](Computer/main-street.png)](Computer/main-street.png) | main-street.png | [![manhattan](Computer/manhattan.jpg)](Computer/manhattan.jpg) | manhattan.jpg |
-| [![map](Computer/map.png)](Computer/map.png) | map.png | [![math](Computer/math.png)](Computer/math.png) | math.png |
-| [![minimal-10](Computer/minimal-10.jpg)](Computer/minimal-10.jpg) | minimal-10.jpg | [![minimal-11](Computer/minimal-11.jpg)](Computer/minimal-11.jpg) | minimal-11.jpg |
-| [![minimal-12](Computer/minimal-12.jpg)](Computer/minimal-12.jpg) | minimal-12.jpg | [![minimal-13](Computer/minimal-13.jpg)](Computer/minimal-13.jpg) | minimal-13.jpg |
-| [![minimal-14](Computer/minimal-14.jpg)](Computer/minimal-14.jpg) | minimal-14.jpg | [![minimal-15](Computer/minimal-15.png)](Computer/minimal-15.png) | minimal-15.png |
-| [![minimal-16](Computer/minimal-16.jpg)](Computer/minimal-16.jpg) | minimal-16.jpg | [![minimal-17](Computer/minimal-17.jpg)](Computer/minimal-17.jpg) | minimal-17.jpg |
-| [![minimal-18](Computer/minimal-18.png)](Computer/minimal-18.png) | minimal-18.png | [![minimal-19](Computer/minimal-19.jpg)](Computer/minimal-19.jpg) | minimal-19.jpg |
-| [![minimal-1](Computer/minimal-1.jpg)](Computer/minimal-1.jpg) | minimal-1.jpg | [![minimal-20](Computer/minimal-20.jpeg)](Computer/minimal-20.jpeg) | minimal-20.jpeg |
-| [![minimal-21](Computer/minimal-21.jpg)](Computer/minimal-21.jpg) | minimal-21.jpg | [![minimal-22](Computer/minimal-22.png)](Computer/minimal-22.png) | minimal-22.png |
-| [![minimal-23](Computer/minimal-23.jpg)](Computer/minimal-23.jpg) | minimal-23.jpg | [![minimal-24](Computer/minimal-24.jpg)](Computer/minimal-24.jpg) | minimal-24.jpg |
-| [![minimal-25](Computer/minimal-25.jpg)](Computer/minimal-25.jpg) | minimal-25.jpg | [![minimal-26](Computer/minimal-26.jpg)](Computer/minimal-26.jpg) | minimal-26.jpg |
-| [![minimal-27](Computer/minimal-27.png)](Computer/minimal-27.png) | minimal-27.png | [![minimal-28](Computer/minimal-28.png)](Computer/minimal-28.png) | minimal-28.png |
-| [![minimal-2](Computer/minimal-2.jpg)](Computer/minimal-2.jpg) | minimal-2.jpg | [![minimal-3](Computer/minimal-3.jpg)](Computer/minimal-3.jpg) | minimal-3.jpg |
-| [![minimal-4](Computer/minimal-4.jpg)](Computer/minimal-4.jpg) | minimal-4.jpg | [![minimal-5](Computer/minimal-5.jpg)](Computer/minimal-5.jpg) | minimal-5.jpg |
-| [![minimal-6](Computer/minimal-6.jpg)](Computer/minimal-6.jpg) | minimal-6.jpg | [![minimal-7](Computer/minimal-7.jpg)](Computer/minimal-7.jpg) | minimal-7.jpg |
-| [![minimal-8](Computer/minimal-8.png)](Computer/minimal-8.png) | minimal-8.png | [![minimal-9](Computer/minimal-9.jpg)](Computer/minimal-9.jpg) | minimal-9.jpg |
-| [![minimalist-black-hole](Computer/minimalist-black-hole.png)](Computer/minimalist-black-hole.png) | minimalist-black-hole.png | [![minimal](Computer/minimal.jpg)](Computer/minimal.jpg) | minimal.jpg |
-| [![mocha](Computer/mocha.jpg)](Computer/mocha.jpg) | mocha.jpg | [![moon-beach](Computer/moon-beach.png)](Computer/moon-beach.png) | moon-beach.png |
-| [![mountain](Computer/mountain.jpg)](Computer/mountain.jpg) | mountain.jpg | [![my-neighbor-totoro-sunflowers](Computer/my-neighbor-totoro-sunflowers.png)](Computer/my-neighbor-totoro-sunflowers.png) | my-neighbor-totoro-sunflowers.png |
-| [![nature-10](Computer/nature-10.jpg)](Computer/nature-10.jpg) | nature-10.jpg | [![nature-11](Computer/nature-11.jpg)](Computer/nature-11.jpg) | nature-11.jpg |
-| [![nature-12](Computer/nature-12.jpg)](Computer/nature-12.jpg) | nature-12.jpg | [![nature-13](Computer/nature-13.jpg)](Computer/nature-13.jpg) | nature-13.jpg |
-| [![nature-14](Computer/nature-14.jpg)](Computer/nature-14.jpg) | nature-14.jpg | [![nature-15](Computer/nature-15.jpg)](Computer/nature-15.jpg) | nature-15.jpg |
-| [![nature-16](Computer/nature-16.png)](Computer/nature-16.png) | nature-16.png | [![nature-17](Computer/nature-17.jpg)](Computer/nature-17.jpg) | nature-17.jpg |
-| [![nature-18](Computer/nature-18.jpg)](Computer/nature-18.jpg) | nature-18.jpg | [![nature-19](Computer/nature-19.jpg)](Computer/nature-19.jpg) | nature-19.jpg |
-| [![nature-1](Computer/nature-1.png)](Computer/nature-1.png) | nature-1.png | [![nature-20](Computer/nature-20.jpg)](Computer/nature-20.jpg) | nature-20.jpg |
-| [![nature-21](Computer/nature-21.jpg)](Computer/nature-21.jpg) | nature-21.jpg | [![nature-22](Computer/nature-22.jpg)](Computer/nature-22.jpg) | nature-22.jpg |
-| [![nature-2](Computer/nature-2.jpg)](Computer/nature-2.jpg) | nature-2.jpg | [![nature-3](Computer/nature-3.jpg)](Computer/nature-3.jpg) | nature-3.jpg |
-| [![nature-4](Computer/nature-4.jpg)](Computer/nature-4.jpg) | nature-4.jpg | [![nature-5](Computer/nature-5.jpg)](Computer/nature-5.jpg) | nature-5.jpg |
-| [![nature-6](Computer/nature-6.jpg)](Computer/nature-6.jpg) | nature-6.jpg | [![nature-7](Computer/nature-7.jpg)](Computer/nature-7.jpg) | nature-7.jpg |
-| [![nature-8](Computer/nature-8.jpg)](Computer/nature-8.jpg) | nature-8.jpg | [![nature-9](Computer/nature-9.jpg)](Computer/nature-9.jpg) | nature-9.jpg |
-| [![night-forest-path](Computer/night-forest-path.png)](Computer/night-forest-path.png) | night-forest-path.png | [![nordic](Computer/nordic.jpg)](Computer/nordic.jpg) | nordic.jpg |
-| [![nordic](Computer/nordic.png)](Computer/nordic.png) | nordic.png | [![nord](Computer/nord.jpg)](Computer/nord.jpg) | nord.jpg |
-| [![nord](Computer/nord.png)](Computer/nord.png) | nord.png | [![nord-simple](Computer/nord-simple.png)](Computer/nord-simple.png) | nord-simple.png |
-| [![nuemorph-light](Computer/nuemorph-light.png)](Computer/nuemorph-light.png) | nuemorph-light.png | [![nuemorph](Computer/nuemorph.png)](Computer/nuemorph.png) | nuemorph.png |
-| [![old-computer](Computer/old-computer.png)](Computer/old-computer.png) | old-computer.png | [![onedark](Computer/onedark.png)](Computer/onedark.png) | onedark.png |
-| [![oneshot-refuge](Computer/oneshot-refuge.jpg)](Computer/oneshot-refuge.jpg) | oneshot-refuge.jpg | [![outlines](Computer/outlines.png)](Computer/outlines.png) | outlines.png |
-| [![parrot](Computer/parrot.png)](Computer/parrot.png) | parrot.png | [![pastel](Computer/pastel.png)](Computer/pastel.png) | pastel.png |
-| [![pitstop](Computer/pitstop.png)](Computer/pitstop.png) | pitstop.png | [![pixel-alley](Computer/pixel-alley.png)](Computer/pixel-alley.png) | pixel-alley.png |
-| [![pixel-car](Computer/pixel-car.png)](Computer/pixel-car.png) | pixel-car.png | [![pixel-castle](Computer/pixel-castle.png)](Computer/pixel-castle.png) | pixel-castle.png |
-| [![pixel-earth](Computer/pixel-earth.png)](Computer/pixel-earth.png) | pixel-earth.png | [![pixel-galaxy](Computer/pixel-galaxy.png)](Computer/pixel-galaxy.png) | pixel-galaxy.png |
-| [![pixel-napping](Computer/pixel-napping.png)](Computer/pixel-napping.png) | pixel-napping.png | [![pixel-planet](Computer/pixel-planet.png)](Computer/pixel-planet.png) | pixel-planet.png |
-| [![pixel-reading](Computer/pixel-reading.png)](Computer/pixel-reading.png) | pixel-reading.png | [![plane-purple](Computer/plane-purple.png)](Computer/plane-purple.png) | plane-purple.png |
-| [![pompeii](Computer/pompeii.png)](Computer/pompeii.png) | pompeii.png | [![purple](Computer/purple.png)](Computer/purple.png) | purple.png |
-| [![railroad-cat](Computer/railroad-cat.png)](Computer/railroad-cat.png) | railroad-cat.png | [![railroad-horizon](Computer/railroad-horizon.png)](Computer/railroad-horizon.png) | railroad-horizon.png |
-| [![rainy](Computer/rainy.jpeg)](Computer/rainy.jpeg) | rainy.jpeg | [![rainy-window](Computer/rainy-window.jpeg)](Computer/rainy-window.jpeg) | rainy-window.jpeg |
-| [![red-city](Computer/red-city.png)](Computer/red-city.png) | red-city.png | [![reddish](Computer/reddish.png)](Computer/reddish.png) | reddish.png |
-| [![rick](Computer/rick.jpg)](Computer/rick.jpg) | rick.jpg | [![satellite](Computer/satellite.png)](Computer/satellite.png) | satellite.png |
-| [![shadow-shape-holo](Computer/shadow-shape-holo.jpeg)](Computer/shadow-shape-holo.jpeg) | shadow-shape-holo.jpeg | [![ship-2](Computer/ship-2.png)](Computer/ship-2.png) | ship-2.png |
-| [![slime](Computer/slime.jpg)](Computer/slime.jpg) | slime.jpg | [![snow](Computer/snow.png)](Computer/snow.png) | snow.png |
-| [![snowy-map](Computer/snowy-map.png)](Computer/snowy-map.png) | snowy-map.png | [![sousou-no-frieren-flowers](Computer/sousou-no-frieren-flowers.png)](Computer/sousou-no-frieren-flowers.png) | sousou-no-frieren-flowers.png |
-| [![space-piano](Computer/space-piano.png)](Computer/space-piano.png) | space-piano.png | [![space](Computer/space.png)](Computer/space.png) | space.png |
-| [![spark](Computer/spark.jpg)](Computer/spark.jpg) | spark.jpg | [![stormlight-archive](Computer/stormlight-archive.png)](Computer/stormlight-archive.png) | stormlight-archive.png |
-| [![street-4](Computer/street-4.png)](Computer/street-4.png) | street-4.png | [![street](Computer/street.png)](Computer/street.png) | street.png |
-| [![sungarden](Computer/sungarden.png)](Computer/sungarden.png) | sungarden.png | [![sunken-tower](Computer/sunken-tower.png)](Computer/sunken-tower.png) | sunken-tower.png |
-| [![sunlit-ruins](Computer/sunlit-ruins.png)](Computer/sunlit-ruins.png) | sunlit-ruins.png | [![sweet](Computer/sweet.png)](Computer/sweet.png) | sweet.png |
-| [![tealize](Computer/tealize.png)](Computer/tealize.png) | tealize.png | [![toast](Computer/toast.png)](Computer/toast.png) | toast.png |
-| [![tokyo](Computer/tokyo.png)](Computer/tokyo.png) | tokyo.png | [![tower](Computer/tower.png)](Computer/tower.png) | tower.png |
-| [![train-sideview](Computer/train-sideview.png)](Computer/train-sideview.png) | train-sideview.png | [![trippy-purple](Computer/trippy-purple.png)](Computer/trippy-purple.png) | trippy-purple.png |
-| [![van-chilling](Computer/van-chilling.png)](Computer/van-chilling.png) | van-chilling.png | [![venice-market](Computer/venice-market.png)](Computer/venice-market.png) | venice-market.png |
-| [![vibrant-gate](Computer/vibrant-gate.png)](Computer/vibrant-gate.png) | vibrant-gate.png | [![voxel-houses-monochrome](Computer/voxel-houses-monochrome.png)](Computer/voxel-houses-monochrome.png) | voxel-houses-monochrome.png |
-| [![waterfall](Computer/waterfall.png)](Computer/waterfall.png) | waterfall.png | [![wave](Computer/wave.jpg)](Computer/wave.jpg) | wave.jpg |
-| [![waves](Computer/waves.png)](Computer/waves.png) | waves.png | [![wheat](Computer/wheat.png)](Computer/wheat.png) | wheat.png |
-| [![white](Computer/white.png)](Computer/white.png) | white.png | | |
-| [![108948084_p0](Computer/108948084_p0.png)](Computer/108948084_p0.png) | 108948084_p0.png | [![114133447_p0](Computer/114133447_p0.png)](Computer/114133447_p0.png) | 114133447_p0.png |
-| [![114753344_p0](Computer/114753344_p0.png)](Computer/114753344_p0.png) | 114753344_p0.png | [![5m5kLI9](Computer/5m5kLI9.png)](Computer/5m5kLI9.png) | 5m5kLI9.png |
-| [![after_school_stroll_gruvbox](Computer/after_school_stroll_gruvbox.png)](Computer/after_school_stroll_gruvbox.png) | after_school_stroll_gruvbox.png | [![anime_girl_plus_rockets](Computer/anime_girl_plus_rockets.png)](Computer/anime_girl_plus_rockets.png) | anime_girl_plus_rockets.png |
-| [![anime_skull](Computer/anime_skull.png)](Computer/anime_skull.png) | anime_skull.png | [![animeskull](Computer/animeskull.png)](Computer/animeskull.png) | animeskull.png |
-| [![cherry-blossom](Computer/cherry-blossom.png)](Computer/cherry-blossom.png) | cherry-blossom.png | [![classroom](Computer/classroom.jpg)](Computer/classroom.jpg) | classroom.jpg |
-| [![cyber-asian-girl-1080](Computer/cyber-asian-girl-1080.png)](Computer/cyber-asian-girl-1080.png) | cyber-asian-girl-1080.png | [![DemonChild](Computer/DemonChild.png)](Computer/DemonChild.png) | DemonChild.png |
-| [![elias](Computer/elias.jpg)](Computer/elias.jpg) | elias.jpg | [![Faroeste](Computer/Faroeste.jpg)](Computer/Faroeste.jpg) | Faroeste.jpg |
-| [![frieren_gruvbox](Computer/frieren_gruvbox.png)](Computer/frieren_gruvbox.png) | frieren_gruvbox.png | [![gankutsuou](Computer/gankutsuou.jpg)](Computer/gankutsuou.jpg) | gankutsuou.jpg |
-| [![ghibli-japanese-walled-garden](Computer/ghibli-japanese-walled-garden.png)](Computer/ghibli-japanese-walled-garden.png) | ghibli-japanese-walled-garden.png | [![girl-2](Computer/girl-2.png)](Computer/girl-2.png) | girl-2.png |
-| [![girl-3](Computer/girl-3.png)](Computer/girl-3.png) | girl-3.png | [![girl](Computer/girl.png)](Computer/girl.png) | girl.png |
-| [![glt_gruvbox](Computer/glt_gruvbox.png)](Computer/glt_gruvbox.png) | glt_gruvbox.png | [![grey_lain_wallpaper](Computer/grey_lain_wallpaper.jpg)](Computer/grey_lain_wallpaper.jpg) | grey_lain_wallpaper.jpg |
-| [![gruvbox_girl](Computer/gruvbox_girl.png)](Computer/gruvbox_girl.png) | gruvbox_girl.png | [![gruv-wallhaven-011km1](Computer/gruv-wallhaven-011km1.png)](Computer/gruv-wallhaven-011km1.png) | gruv-wallhaven-011km1.png |
-| [![gruv-wallhaven-4gmevq](Computer/gruv-wallhaven-4gmevq.png)](Computer/gruv-wallhaven-4gmevq.png) | gruv-wallhaven-4gmevq.png | [![gruv-wallhaven-l3y2p2](Computer/gruv-wallhaven-l3y2p2.png)](Computer/gruv-wallhaven-l3y2p2.png) | gruv-wallhaven-l3y2p2.png |
-| [![gruv-wallhaven-m9e9m1](Computer/gruv-wallhaven-m9e9m1.png)](Computer/gruv-wallhaven-m9e9m1.png) | gruv-wallhaven-m9e9m1.png | [![gruv-wallhaven-pkzoj3](Computer/gruv-wallhaven-pkzoj3.png)](Computer/gruv-wallhaven-pkzoj3.png) | gruv-wallhaven-pkzoj3.png |
-| [![ign-waifu](Computer/ign-waifu.png)](Computer/ign-waifu.png) | ign-waifu.png | [![initialdgruvlight](Computer/initialdgruvlight.png)](Computer/initialdgruvlight.png) | initialdgruvlight.png |
-| [![joyboy](Computer/joyboy.png)](Computer/joyboy.png) | joyboy.png | [![Kita](Computer/Kita.png)](Computer/Kita.png) | Kita.png |
-| [![komeiji-koishi](Computer/komeiji-koishi.png)](Computer/komeiji-koishi.png) | komeiji-koishi.png | [![kurotani](Computer/kurotani.jpg)](Computer/kurotani.jpg) | kurotani.jpg |
-| [![Kurumi-Ebisuzawa](Computer/Kurumi-Ebisuzawa.png)](Computer/Kurumi-Ebisuzawa.png) | Kurumi-Ebisuzawa.png | [![Kojiro](Computer/Kojiro.png)](Computer/Kojiro.png) | Kojiro.png |
-| [![Mandalorian](Computer/Mandalorian.jpg)](Computer/Mandalorian.jpg) | Mandalorian.jpg | [![momo_ayase_centered_gruvbox](Computer/momo_ayase_centered_gruvbox.png)](Computer/momo_ayase_centered_gruvbox.png) | momo_ayase_centered_gruvbox.png |
-| [![momo_ayase_gruvbox](Computer/momo_ayase_gruvbox.png)](Computer/momo_ayase_gruvbox.png) | momo_ayase_gruvbox.png | [![my-neighbor-totoro-sunflowers-gruvbox](Computer/my-neighbor-totoro-sunflowers-gruvbox.png)](Computer/my-neighbor-totoro-sunflowers-gruvbox.png) | my-neighbor-totoro-sunflowers-gruvbox.png |
-| [![satellites](Computer/satellites.png)](Computer/satellites.png) | satellites.png | [![The-Wind-Rises](Computer/The-Wind-Rises.jpg)](Computer/The-Wind-Rises.jpg) | The-Wind-Rises.jpg |
-| [![amdgruvblu](Computer/amdgruvblu.png)](Computer/amdgruvblu.png) | amdgruvblu.png | [![amdgruvgreen](Computer/amdgruvgreen.png)](Computer/amdgruvgreen.png) | amdgruvgreen.png |
-| [![amdgruvlightblu](Computer/amdgruvlightblu.png)](Computer/amdgruvlightblu.png) | amdgruvlightblu.png | [![amdgruvlightgreen](Computer/amdgruvlightgreen.png)](Computer/amdgruvlightgreen.png) | amdgruvlightgreen.png |
-| [![amdgruvlightorange](Computer/amdgruvlightorange.png)](Computer/amdgruvlightorange.png) | amdgruvlightorange.png | [![amdgruvlightred](Computer/amdgruvlightred.png)](Computer/amdgruvlightred.png) | amdgruvlightred.png |
-| [![amdgruvorange](Computer/amdgruvorange.png)](Computer/amdgruvorange.png) | amdgruvorange.png | [![amdgruvred](Computer/amdgruvred.png)](Computer/amdgruvred.png) | amdgruvred.png |
-| [![arch-linux](Computer/arch-linux.png)](Computer/arch-linux.png) | arch-linux.png | [![awesome](Computer/awesome.png)](Computer/awesome.png) | awesome.png |
-| [![debian_grey_swirl](Computer/debian_grey_swirl.png)](Computer/debian_grey_swirl.png) | debian_grey_swirl.png | [![gruvbox_kubuntuGear](Computer/gruvbox_kubuntuGear.jpg)](Computer/gruvbox_kubuntuGear.jpg) | gruvbox_kubuntuGear.jpg |
-| [![gruvbox_light_linux](Computer/gruvbox_light_linux.png)](Computer/gruvbox_light_linux.png) | gruvbox_light_linux.png | [![gruvbox-nix](Computer/gruvbox-nix.png)](Computer/gruvbox-nix.png) | gruvbox-nix.png |
-| [![gruvbox-rainbow-nix](Computer/gruvbox-rainbow-nix.png)](Computer/gruvbox-rainbow-nix.png) | gruvbox-rainbow-nix.png | [![gruvbox_ubuntu](Computer/gruvbox_ubuntu.png)](Computer/gruvbox_ubuntu.png) | gruvbox_ubuntu.png |
-| [![gruvbox_ubuntu-splash](Computer/gruvbox_ubuntu-splash.jpg)](Computer/gruvbox_ubuntu-splash.jpg) | gruvbox_ubuntu-splash.jpg | [![Manjaro](Computer/Manjaro.jpg)](Computer/Manjaro.jpg) | Manjaro.jpg |
-| [![netbsd-light](Computer/netbsd-light.png)](Computer/netbsd-light.png) | netbsd-light.png | [![netbsd](Computer/netbsd.png)](Computer/netbsd.png) | netbsd.png |
-| [![nixos](Computer/nixos.png)](Computer/nixos.png) | nixos.png | [![nix](Computer/nix.png)](Computer/nix.png) | nix.png |
-| [![nvgruvgreen](Computer/nvgruvgreen.png)](Computer/nvgruvgreen.png) | nvgruvgreen.png | [![nvgruvlightgreen](Computer/nvgruvlightgreen.png)](Computer/nvgruvlightgreen.png) | nvgruvlightgreen.png |
-| [![nvim](Computer/nvim.png)](Computer/nvim.png) | nvim.png | [![sve](Computer/sve.png)](Computer/sve.png) | sve.png |
-| [![tux](Computer/tux.png)](Computer/tux.png) | tux.png | [![UbuntuGnome](Computer/UbuntuGnome.png)](Computer/UbuntuGnome.png) | UbuntuGnome.png |
-| [![Windows-2](Computer/Windows-2.png)](Computer/Windows-2.png) | Windows-2.png | [![Windows](Computer/Windows.png)](Computer/Windows.png) | Windows.png |
-
+|---------|---------|---------|---------|
+![](./Computer/blue-kaiju.png) | blue-kaiju.png | ![](./Computer/husky.png) | husky.png |
+![](./Computer/wheat.png) | wheat.png | ![](./Computer/gruv-portal-cake.png) | gruv-portal-cake.png |
+![](./Computer/gradient-6.jpg) | gradient-6.jpg | ![](./Computer/FreshCake_computerFiles.jpg) | FreshCake_computerFiles.jpg |
+![](./Computer/idk-tbh.png) | idk-tbh.png | ![](./Computer/space.png) | space.png |
+![](./Computer/outlines.png) | outlines.png | ![](./Computer/manhattan.jpg) | manhattan.jpg |
+![](./Computer/pixel-earth.png) | pixel-earth.png | ![](./Computer/eleven-gold.jpg) | eleven-gold.jpg |
+![](./Computer/starry-sky.png) | starry-sky.png | ![](./Computer/skull.png) | skull.png |
+![](./Computer/snake.png) | snake.png | ![](./Computer/netbsd-light.png) | netbsd-light.png |
+![](./Computer/light-intel.png) | light-intel.png | ![](./Computer/nature-2.jpg) | nature-2.jpg |
+![](./Computer/gradient-22.jpg) | gradient-22.jpg | ![](./Computer/girl.png) | girl.png |
+![](./Computer/animeskull.png) | animeskull.png | ![](./Computer/extra-8.jpg) | extra-8.jpg |
+![](./Computer/reddish.png) | reddish.png | ![](./Computer/The-Wind-Rises.jpg) | The-Wind-Rises.jpg |
+![](./Computer/gradient-11.jpg) | gradient-11.jpg | ![](./Computer/nature-9.jpg) | nature-9.jpg |
+![](./Computer/initialdgruvlight.png) | initialdgruvlight.png | ![](./Computer/sousou-no-frieren-flowers.png) | sousou-no-frieren-flowers.png |
+![](./Computer/nature-12.jpg) | nature-12.jpg | ![](./Computer/waterfall.png) | waterfall.png |
+![](./Computer/mustacho.png) | mustacho.png | ![](./Computer/city.png) | city.png |
+![](./Computer/extra-19.jpg) | extra-19.jpg | ![](./Computer/pacman-ghosts.png) | pacman-ghosts.png |
+![](./Computer/extra-21.jpg) | extra-21.jpg | ![](./Computer/gankutsuou.jpg) | gankutsuou.jpg |
+![](./Computer/minimal-14.jpg) | minimal-14.jpg | ![](./Computer/dark-intel.png) | dark-intel.png |
+![](./Computer/fingerprint.png) | fingerprint.png | ![](./Computer/wallpaper.png) | wallpaper.png |
+![](./Computer/minimal-18.png) | minimal-18.png | ![](./Computer/spark.jpg) | spark.jpg |
+![](./Computer/railroad-horizon.png) | railroad-horizon.png | ![](./Computer/arch-linux.png) | arch-linux.png |
+![](./Computer/awesome.png) | awesome.png | ![](./Computer/gnu.jpg) | gnu.jpg |
+![](./Computer/sushi.jpg) | sushi.jpg | ![](./Computer/hlgruvgreen.png) | hlgruvgreen.png |
+![](./Computer/cat-in-clouds.png) | cat-in-clouds.png | ![](./Computer/nasa.png) | nasa.png |
+![](./Computer/jupiter.png) | jupiter.png | ![](./Computer/tanjiro-kamado-gruv.jpg) | tanjiro-kamado-gruv.jpg |
+![](./Computer/satellites.png) | satellites.png | ![](./Computer/chaos.png) | chaos.png |
+![](./Computer/triangle.png) | triangle.png | ![](./Computer/tealize.png) | tealize.png |
+![](./Computer/gruv.jpg) | gruv.jpg | ![](./Computer/114753344_p0.png) | 114753344_p0.png |
+![](./Computer/solar-system.jpg) | solar-system.jpg | ![](./Computer/nord.jpg) | nord.jpg |
+![](./Computer/amdgruvorange.png) | amdgruvorange.png | ![](./Computer/anime_skull.png) | anime_skull.png |
+![](./Computer/adaptive.png) | adaptive.png | ![](./Computer/trippy-purple.png) | trippy-purple.png |
+![](./Computer/hewlett-packard.png) | hewlett-packard.png | ![](./Computer/5m5kLI9.png) | 5m5kLI9.png |
+![](./Computer/minimal-8.png) | minimal-8.png | ![](./Computer/snowy-map.png) | snowy-map.png |
+![](./Computer/xxxtentacion.png) | xxxtentacion.png | ![](./Computer/ign-waifu.png) | ign-waifu.png |
+![](./Computer/extra-0.jpg) | extra-0.jpg | ![](./Computer/Boxes.png) | Boxes.png |
+![](./Computer/cherry-blossom.png) | cherry-blossom.png | ![](./Computer/amdgruvlightgreen.png) | amdgruvlightgreen.png |
+![](./Computer/gradient-14.jpg) | gradient-14.jpg | ![](./Computer/zelda.png) | zelda.png |
+![](./Computer/moon.png) | moon.png | ![](./Computer/street.png) | street.png |
+![](./Computer/nature-14.jpg) | nature-14.jpg | ![](./Computer/girl-stars.png) | girl-stars.png |
+![](./Computer/sunken-tower.png) | sunken-tower.png | ![](./Computer/Mandalorian.jpg) | Mandalorian.jpg |
+![](./Computer/joyboy.png) | joyboy.png | ![](./Computer/smile-2.png) | smile-2.png |
+![](./Computer/blue-landscape.png) | blue-landscape.png | ![](./Computer/light-hewlett-packard.png) | light-hewlett-packard.png |
+![](./Computer/extra-5.jpg) | extra-5.jpg | ![](./Computer/minimal-23.jpg) | minimal-23.jpg |
+![](./Computer/nuemorph-light.png) | nuemorph-light.png | ![](./Computer/eleven-dark.jpg) | eleven-dark.jpg |
+![](./Computer/skull-3.png) | skull-3.png | ![](./Computer/crane.png) | crane.png |
+![](./Computer/gruvbox.jpg) | gruvbox.jpg | ![](./Computer/flower-branch.png) | flower-branch.png |
+![](./Computer/gradient-13.jpg) | gradient-13.jpg | ![](./Computer/pixel-napping.png) | pixel-napping.png |
+![](./Computer/kurotani.jpg) | kurotani.jpg | ![](./Computer/nordic.jpg) | nordic.jpg |
+![](./Computer/cabin-4.png) | cabin-4.png | ![](./Computer/minimal-2.jpg) | minimal-2.jpg |
+![](./Computer/great-wave-of-kanagawa-gruvbox.png) | great-wave-of-kanagawa-gruvbox.png | ![](./Computer/minimal-4.jpg) | minimal-4.jpg |
+![](./Computer/extra-15.jpg) | extra-15.jpg | ![](./Computer/finalizer.png) | finalizer.png |
+![](./Computer/gradient-10.jpg) | gradient-10.jpg | ![](./Computer/netbsd.png) | netbsd.png |
+![](./Computer/amdgruvlightblu.png) | amdgruvlightblu.png | ![](./Computer/rubiks-cube.png) | rubiks-cube.png |
+![](./Computer/gradient-7.jpg) | gradient-7.jpg | ![](./Computer/pompeii.png) | pompeii.png |
+![](./Computer/vibrant-gate.png) | vibrant-gate.png | ![](./Computer/gray.png) | gray.png |
+![](./Computer/gradient-1.jpg) | gradient-1.jpg | ![](./Computer/wallhaven-7p6g99.png) | wallhaven-7p6g99.png |
+![](./Computer/blade.jpg) | blade.jpg | ![](./Computer/gruvbox-rainbow-nix.png) | gruvbox-rainbow-nix.png |
+![](./Computer/gradient-20.jpg) | gradient-20.jpg | ![](./Computer/bunny.png) | bunny.png |
+![](./Computer/minimal-13.jpg) | minimal-13.jpg | ![](./Computer/minimal.jpg) | minimal.jpg |
+![](./Computer/Manjaro.jpg) | Manjaro.jpg | ![](./Computer/landscape.jpg) | landscape.jpg |
+![](./Computer/cold-alley.png) | cold-alley.png | ![](./Computer/wp11058333.png) | wp11058333.png |
+![](./Computer/minimal-27.png) | minimal-27.png | ![](./Computer/nasa-2.png) | nasa-2.png |
+![](./Computer/colors.png) | colors.png | ![](./Computer/gradient-21.jpg) | gradient-21.jpg |
+![](./Computer/gruvbox_ubuntu.png) | gruvbox_ubuntu.png | ![](./Computer/extra-18.jpg) | extra-18.jpg |
+![](./Computer/amdgruvlightorange.png) | amdgruvlightorange.png | ![](./Computer/nature-11.jpg) | nature-11.jpg |
+![](./Computer/nvgruvlightgreen.png) | nvgruvlightgreen.png | ![](./Computer/car-wreck.png) | car-wreck.png |
+![](./Computer/extra-12.jpg) | extra-12.jpg | ![](./Computer/nature-13.jpg) | nature-13.jpg |
+![](./Computer/extra-22.png) | extra-22.png | ![](./Computer/nature-8.jpg) | nature-8.jpg |
+![](./Computer/my-neighbor-totoro-sunflowers.png) | my-neighbor-totoro-sunflowers.png | ![](./Computer/frappe.png) | frappe.png |
+![](./Computer/darcula.png) | darcula.png | ![](./Computer/cat-vibin.png) | cat-vibin.png |
+![](./Computer/railroad-cat.png) | railroad-cat.png | ![](./Computer/gradient-9.jpg) | gradient-9.jpg |
+![](./Computer/kiddae.jpg) | kiddae.jpg | ![](./Computer/extra-10.png) | extra-10.png |
+![](./Computer/wave.jpg) | wave.jpg | ![](./Computer/Kojiro.png) | Kojiro.png |
+![](./Computer/gradient-3.jpg) | gradient-3.jpg | ![](./Computer/gruv-wallhaven-pkzoj3.png) | gruv-wallhaven-pkzoj3.png |
+![](./Computer/minimal-22.png) | minimal-22.png | ![](./Computer/pixel-alley.png) | pixel-alley.png |
+![](./Computer/venice-market.png) | venice-market.png | ![](./Computer/macaw.png) | macaw.png |
+![](./Computer/moon-beach.png) | moon-beach.png | ![](./Computer/night-forest-path.png) | night-forest-path.png |
+![](./Computer/komeiji-koishi.png) | komeiji-koishi.png | ![](./Computer/nature-22.jpg) | nature-22.jpg |
+![](./Computer/girl-2.png) | girl-2.png | ![](./Computer/sunlit-ruins.png) | sunlit-ruins.png |
+![](./Computer/glt_gruvbox.png) | glt_gruvbox.png | ![](./Computer/minimal-26.jpg) | minimal-26.jpg |
+![](./Computer/rocket.png) | rocket.png | ![](./Computer/hack.jpg) | hack.jpg |
+![](./Computer/sungarden.png) | sungarden.png | ![](./Computer/gradient-27.jpg) | gradient-27.jpg |
+![](./Computer/knight-sit.png) | knight-sit.png | ![](./Computer/apple.jpg) | apple.jpg |
+![](./Computer/extra-4.jpg) | extra-4.jpg | ![](./Computer/extra-3.jpg) | extra-3.jpg |
+![](./Computer/wp11058332.png) | wp11058332.png | ![](./Computer/gruv-wallhaven-011km1.png) | gruv-wallhaven-011km1.png |
+![](./Computer/firefox.png) | firefox.png | ![](./Computer/cartoon-castle.png) | cartoon-castle.png |
+![](./Computer/blueprint.png) | blueprint.png | ![](./Computer/Suki.png) | Suki.png |
+![](./Computer/bird.png) | bird.png | ![](./Computer/gradient-25.jpg) | gradient-25.jpg |
+![](./Computer/light.jpg) | light.jpg | ![](./Computer/Kurumi-Ebisuzawa.png) | Kurumi-Ebisuzawa.png |
+![](./Computer/waves.png) | waves.png | ![](./Computer/japan-alley.png) | japan-alley.png |
+![](./Computer/gamepad.png) | gamepad.png | ![](./Computer/sve.png) | sve.png |
+![](./Computer/keyboard.png) | keyboard.png | ![](./Computer/nord.png) | nord.png |
+![](./Computer/sunset.png) | sunset.png | ![](./Computer/kaiju.png) | kaiju.png |
+![](./Computer/amdgruvgreen.png) | amdgruvgreen.png | ![](./Computer/elegant.png) | elegant.png |
+![](./Computer/gruvbox_minimal_space.png) | gruvbox_minimal_space.png | ![](./Computer/gradient-15.jpg) | gradient-15.jpg |
+![](./Computer/lighthouse-2.png) | lighthouse-2.png | ![](./Computer/minimal-3.jpg) | minimal-3.jpg |
+![](./Computer/minimal-19.jpg) | minimal-19.jpg | ![](./Computer/knight-building.png) | knight-building.png |
+![](./Computer/gruvbox_light_linux.png) | gruvbox_light_linux.png | ![](./Computer/atoms.png) | atoms.png |
+![](./Computer/gruv-wallhaven-l3y2p2.png) | gruv-wallhaven-l3y2p2.png | ![](./Computer/momo_ayase_centered_gruvbox.png) | momo_ayase_centered_gruvbox.png |
+![](./Computer/haz-mat.png) | haz-mat.png | ![](./Computer/dark-bench.png) | dark-bench.png |
+![](./Computer/amdgruvlightred.png) | amdgruvlightred.png | ![](./Computer/gruv-wallhaven-4yj28l.png) | gruv-wallhaven-4yj28l.png |
+![](./Computer/Faroeste.jpg) | Faroeste.jpg | ![](./Computer/momo_ayase_gruvbox.png) | momo_ayase_gruvbox.png |
+![](./Computer/eleven.jpg) | eleven.jpg | ![](./Computer/tux.png) | tux.png |
+![](./Computer/gruv-limits.png) | gruv-limits.png | ![](./Computer/link-click-1.png) | link-click-1.png |
+![](./Computer/gruvbox_spac.jpg) | gruvbox_spac.jpg | ![](./Computer/elias.jpg) | elias.jpg |
+![](./Computer/dark-red.png) | dark-red.png | ![](./Computer/gruvbox_grid.png) | gruvbox_grid.png |
+![](./Computer/frieren_gruvbox.png) | frieren_gruvbox.png | ![](./Computer/lit-up-sky.png) | lit-up-sky.png |
+![](./Computer/pastel.png) | pastel.png | ![](./Computer/droplets.png) | droplets.png |
+![](./Computer/gruv-commit.png) | gruv-commit.png | ![](./Computer/ship-2.png) | ship-2.png |
+![](./Computer/gruv-wallhaven-4gmevq.png) | gruv-wallhaven-4gmevq.png | ![](./Computer/orbit.png) | orbit.png |
+![](./Computer/nature-10.jpg) | nature-10.jpg | ![](./Computer/nixos.png) | nixos.png |
+![](./Computer/classroom.jpg) | classroom.jpg | ![](./Computer/minimal-6.jpg) | minimal-6.jpg |
+![](./Computer/gradient-8.jpg) | gradient-8.jpg | ![](./Computer/looking-for.png) | looking-for.png |
+![](./Computer/clearing.png) | clearing.png | ![](./Computer/dragon.png) | dragon.png |
+![](./Computer/DemonChild.png) | DemonChild.png | ![](./Computer/tokyo.png) | tokyo.png |
+![](./Computer/gruv-understand.png) | gruv-understand.png | ![](./Computer/extra-7.jpg) | extra-7.jpg |
+![](./Computer/gruv-estimate.png) | gruv-estimate.png | ![](./Computer/nasa-3.png) | nasa-3.png |
+![](./Computer/old-computer.png) | old-computer.png | ![](./Computer/hack.png) | hack.png |
+![](./Computer/minimal-5.jpg) | minimal-5.jpg | ![](./Computer/clouds-3.png) | clouds-3.png |
+![](./Computer/minimalist-black-hole.png) | minimalist-black-hole.png | ![](./Computer/bunnies-road.png) | bunnies-road.png |
+![](./Computer/minimal-7.jpg) | minimal-7.jpg | ![](./Computer/gruvbox-nix.png) | gruvbox-nix.png |
+![](./Computer/shadow-shape-holo.jpeg) | shadow-shape-holo.jpeg | ![](./Computer/oneshot-refuge.jpg) | oneshot-refuge.jpg |
+![](./Computer/gruvbox-1.png) | gruvbox-1.png | ![](./Computer/gruvb_solarsys.png) | gruvb_solarsys.png |
+![](./Computer/groot.jpg) | groot.jpg | ![](./Computer/extra-16.jpg) | extra-16.jpg |
+![](./Computer/coding.png) | coding.png | ![](./Computer/minimal-28.png) | minimal-28.png |
+![](./Computer/ratm.png) | ratm.png | ![](./Computer/mocha.jpg) | mocha.jpg |
+![](./Computer/gentlemen-sunset.png) | gentlemen-sunset.png | ![](./Computer/astronaut.png) | astronaut.png |
+![](./Computer/gruvbox-light.png) | gruvbox-light.png | ![](./Computer/slime.jpg) | slime.jpg |
+![](./Computer/gruvbox_tux.png) | gruvbox_tux.png | ![](./Computer/iuh3jkasndjans.jpg) | iuh3jkasndjans.jpg |
+![](./Computer/gruv-wallhaven-m9e9m1.png) | gruv-wallhaven-m9e9m1.png | ![](./Computer/gruvbox_kubuntuGear.jpg) | gruvbox_kubuntuGear.jpg |
+![](./Computer/gradient-12.jpg) | gradient-12.jpg | ![](./Computer/disco.png) | disco.png |
+![](./Computer/zelda_botw.png) | zelda_botw.png | ![](./Computer/gruv-samurai-cyberpunk2077.png) | gruv-samurai-cyberpunk2077.png |
+![](./Computer/grey_lain_wallpaper.jpg) | grey_lain_wallpaper.jpg | ![](./Computer/fox2.png) | fox2.png |
+![](./Computer/debian_grey_swirl.png) | debian_grey_swirl.png | ![](./Computer/parrot.png) | parrot.png |
+![](./Computer/arc.png) | arc.png | ![](./Computer/tower.png) | tower.png |
+![](./Computer/extra-17.jpg) | extra-17.jpg | ![](./Computer/forest.jpg) | forest.jpg |
+![](./Computer/mountain.jpg) | mountain.jpg | ![](./Computer/my-neighbor-totoro-sunflowers-gruvbox.png) | my-neighbor-totoro-sunflowers-gruvbox.png |
+![](./Computer/vim.png) | vim.png | ![](./Computer/nvgruvgreen.png) | nvgruvgreen.png |
+![](./Computer/macchiato.png) | macchiato.png | ![](./Computer/everforest.png) | everforest.png |
+![](./Computer/extra-13.jpg) | extra-13.jpg | ![](./Computer/main-street.png) | main-street.png |
+![](./Computer/chess-gate.jpeg) | chess-gate.jpeg | ![](./Computer/minimal-24.jpg) | minimal-24.jpg |
+![](./Computer/gradient-19.jpg) | gradient-19.jpg | ![](./Computer/rick.jpg) | rick.jpg |
+![](./Computer/default.jpg) | default.jpg | ![](./Computer/cyber-asian-girl-1080.png) | cyber-asian-girl-1080.png |
+![](./Computer/purple.png) | purple.png | ![](./Computer/extra-11.jpg) | extra-11.jpg |
+![](./Computer/hlgruvorange.png) | hlgruvorange.png | ![](./Computer/gradient-24.jpg) | gradient-24.jpg |
+![](./Computer/red-moon.png) | red-moon.png | ![](./Computer/gradient-18.jpg) | gradient-18.jpg |
+![](./Computer/fox.png) | fox.png | ![](./Computer/asian-village.png) | asian-village.png |
+![](./Computer/cabin-3.png) | cabin-3.png | ![](./Computer/rainy-window.jpeg) | rainy-window.jpeg |
+![](./Computer/nature-3.jpg) | nature-3.jpg | ![](./Computer/city-harbor.png) | city-harbor.png |
+![](./Computer/minimal-12.jpg) | minimal-12.jpg | ![](./Computer/minimal-16.jpg) | minimal-16.jpg |
+![](./Computer/this-wallpaper-is-not-available.png) | this-wallpaper-is-not-available.png | ![](./Computer/van-chilling.png) | van-chilling.png |
+![](./Computer/gruv-dev-minimal.png) | gruv-dev-minimal.png | ![](./Computer/street-4.png) | street-4.png |
+![](./Computer/solar-system-minimal.png) | solar-system-minimal.png | ![](./Computer/gnulinux.png) | gnulinux.png |
+![](./Computer/nature-6.jpg) | nature-6.jpg | ![](./Computer/gruvbox.png) | gruvbox.png |
+![](./Computer/gruv-kanji.png) | gruv-kanji.png | ![](./Computer/Windows.png) | Windows.png |
+![](./Computer/keyboards.jpg) | keyboards.jpg | ![](./Computer/trisquel-gnu-linux.png) | trisquel-gnu-linux.png |
+![](./Computer/after_school_stroll_gruvbox.png) | after_school_stroll_gruvbox.png | ![](./Computer/PJbX0MG.png) | PJbX0MG.png |
+![](./Computer/girl-outline.png) | girl-outline.png | ![](./Computer/nvim.png) | nvim.png |
+![](./Computer/UbuntuGnome.png) | UbuntuGnome.png | ![](./Computer/gruv-abstract-maze.png) | gruv-abstract-maze.png |
+![](./Computer/extra-9.jpg) | extra-9.jpg | ![](./Computer/nature-17.jpg) | nature-17.jpg |
+![](./Computer/hlgruvblu.png) | hlgruvblu.png | ![](./Computer/minimal-25.jpg) | minimal-25.jpg |
+![](./Computer/clouds-2.png) | clouds-2.png | ![](./Computer/rick.png) | rick.png |
+![](./Computer/gradient-5.jpg) | gradient-5.jpg | ![](./Computer/minimal-11.jpg) | minimal-11.jpg |
+![](./Computer/nature-19.jpg) | nature-19.jpg | ![](./Computer/dominik-mayer-18.png) | dominik-mayer-18.png |
+![](./Computer/toast.png) | toast.png | ![](./Computer/door.png) | door.png |
+![](./Computer/coding-3.png) | coding-3.png | ![](./Computer/114133447_p0.png) | 114133447_p0.png |
+![](./Computer/gradient-26.jpg) | gradient-26.jpg | ![](./Computer/alleyway.jpg) | alleyway.jpg |
+![](./Computer/pixel-castle.png) | pixel-castle.png | ![](./Computer/nix.png) | nix.png |
+![](./Computer/amdgruvblu.png) | amdgruvblu.png | ![](./Computer/gruv-mistakes.png) | gruv-mistakes.png |
+![](./Computer/sweet.png) | sweet.png | ![](./Computer/nature-21.jpg) | nature-21.jpg |
+![](./Computer/red-city.png) | red-city.png | ![](./Computer/gruvbox_void_linux.png) | gruvbox_void_linux.png |
+![](./Computer/Kita.png) | Kita.png | ![](./Computer/nature-1.png) | nature-1.png |
+![](./Computer/extra-14.jpg) | extra-14.jpg | ![](./Computer/minimal-21.jpg) | minimal-21.jpg |
+![](./Computer/nature-20.jpg) | nature-20.jpg | ![](./Computer/skull-2.png) | skull-2.png |
+![](./Computer/flowers-21.png) | flowers-21.png | ![](./Computer/Windows-2.png) | Windows-2.png |
+![](./Computer/beach.jpg) | beach.jpg | ![](./Computer/space-piano.png) | space-piano.png |
+![](./Computer/clouds.png) | clouds.png | ![](./Computer/lantern-light-room.png) | lantern-light-room.png |
+![](./Computer/kitchen.png) | kitchen.png | ![](./Computer/adapta.png) | adapta.png |
+![](./Computer/adaptive.jpg) | adaptive.jpg | ![](./Computer/green.png) | green.png |
+![](./Computer/kanagawa.png) | kanagawa.png | ![](./Computer/cabin.png) | cabin.png |
+![](./Computer/stormlight-archive.png) | stormlight-archive.png | ![](./Computer/gradient-4.jpg) | gradient-4.jpg |
+![](./Computer/tetris_gruvbox_brighter.png) | tetris_gruvbox_brighter.png | ![](./Computer/castle.png) | castle.png |
+![](./Computer/faded.png) | faded.png | ![](./Computer/pixel-car.png) | pixel-car.png |
+![](./Computer/burning-earth.png) | burning-earth.png | ![](./Computer/flowers-17.png) | flowers-17.png |
+![](./Computer/keyboard-2.png) | keyboard-2.png | ![](./Computer/nuemorph.png) | nuemorph.png |
+![](./Computer/nature-5.jpg) | nature-5.jpg | ![](./Computer/minimal-9.jpg) | minimal-9.jpg |
+![](./Computer/108948084_p0.png) | 108948084_p0.png | ![](./Computer/train-sideview.png) | train-sideview.png |
+![](./Computer/car-1.png) | car-1.png | ![](./Computer/minimal-10.jpg) | minimal-10.jpg |
+![](./Computer/extra-6.jpg) | extra-6.jpg | ![](./Computer/nature-7.jpg) | nature-7.jpg |
+![](./Computer/extra-20.jpg) | extra-20.jpg | ![](./Computer/ALLqk82.png) | ALLqk82.png |
+![](./Computer/minimal-15.png) | minimal-15.png | ![](./Computer/minimal-17.jpg) | minimal-17.jpg |
+![](./Computer/map.png) | map.png | ![](./Computer/genshin-landscape.png) | genshin-landscape.png |
+![](./Computer/rainy.jpeg) | rainy.jpeg | ![](./Computer/ghibli-japanese-walled-garden.png) | ghibli-japanese-walled-garden.png |
+![](./Computer/burnout.png) | burnout.png | ![](./Computer/degirled.png) | degirled.png |
+![](./Computer/tetris_gruvbox.png) | tetris_gruvbox.png | ![](./Computer/minimal-1.jpg) | minimal-1.jpg |
+![](./Computer/gruvbox_astro.jpg) | gruvbox_astro.jpg | ![](./Computer/gradient-16.jpg) | gradient-16.jpg |
+![](./Computer/freebsd.png) | freebsd.png | ![](./Computer/minimal-20.jpeg) | minimal-20.jpeg |
+![](./Computer/pixel-reading.png) | pixel-reading.png | ![](./Computer/dracula.png) | dracula.png |
+![](./Computer/tetris_gruvbox_brighter_lighter.png) | tetris_gruvbox_brighter_lighter.png | ![](./Computer/cottages-river.png) | cottages-river.png |
+![](./Computer/girl-3.png) | girl-3.png | ![](./Computer/gruvbox-linux.png) | gruvbox-linux.png |
+![](./Computer/extra-1.jpg) | extra-1.jpg | ![](./Computer/harbor-3.png) | harbor-3.png |
+![](./Computer/nature-15.jpg) | nature-15.jpg | ![](./Computer/flowers.jpg) | flowers.jpg |
+![](./Computer/gradient-17.jpg) | gradient-17.jpg | ![](./Computer/onedark.png) | onedark.png |
+![](./Computer/gradient-2.jpg) | gradient-2.jpg | ![](./Computer/nature-4.jpg) | nature-4.jpg |
+![](./Computer/persepolis-shirdal.png) | persepolis-shirdal.png | ![](./Computer/snow.png) | snow.png |
+![](./Computer/gruv-focus.png) | gruv-focus.png | ![](./Computer/white.png) | white.png |
+![](./Computer/space2.png) | space2.png | ![](./Computer/smile.png) | smile.png |
+![](./Computer/war-in-space.png) | war-in-space.png | ![](./Computer/gruvbox_ubuntu-splash.jpg) | gruvbox_ubuntu-splash.jpg |
+![](./Computer/FreshCake_cornerWizard.jpg) | FreshCake_cornerWizard.jpg | ![](./Computer/amdgruvred.png) | amdgruvred.png |
+![](./Computer/haskell-light.jpg) | haskell-light.jpg | ![](./Computer/nordic.png) | nordic.png |
+![](./Computer/plane-purple.png) | plane-purple.png | ![](./Computer/hollow-knight.png) | hollow-knight.png |
+![](./Computer/satellite.png) | satellite.png | ![](./Computer/philosophy.png) | philosophy.png |
+![](./Computer/uchiha-clan-logo.png) | uchiha-clan-logo.png | ![](./Computer/coffee-shop.png) | coffee-shop.png |
+![](./Computer/pixel-planet.png) | pixel-planet.png | ![](./Computer/nord-simple.png) | nord-simple.png |
+![](./Computer/space-shuttle.png) | space-shuttle.png | ![](./Computer/nature-16.png) | nature-16.png |
+![](./Computer/flowering-rain.png) | flowering-rain.png | ![](./Computer/math.png) | math.png |
+![](./Computer/anime_girl_plus_rockets.png) | anime_girl_plus_rockets.png | ![](./Computer/coding-2.png) | coding-2.png |
+![](./Computer/nature-18.jpg) | nature-18.jpg | ![](./Computer/gradient-23.jpg) | gradient-23.jpg |
+![](./Computer/pitstop.png) | pitstop.png | ![](./Computer/gruvbox_girl.png) | gruvbox_girl.png |
+![](./Computer/wall.jpg) | wall.jpg | ![](./Computer/flower-field-2.png) | flower-field-2.png |
+![](./Computer/daisy.png) | daisy.png | ![](./Computer/black-hole.png) | black-hole.png |
+![](./Computer/voxel-houses-monochrome.png) | voxel-houses-monochrome.png | ![](./Computer/cyberpunk.jpg) | cyberpunk.jpg |
+![](./Computer/kusuriya.png) | kusuriya.png | ![](./Computer/bsod.png) | bsod.png |
+![](./Computer/bouquet.jpg) | bouquet.jpg | ![](./Computer/day-forest-path.png) | day-forest-path.png |
+![](./Computer/pixel-galaxy.png) | pixel-galaxy.png | ![](./Computer/flower-field-3.png) | flower-field-3.png |
 
 Phone:
 | Preview | Filename | Preview | Filename |
