@@ -4,7 +4,7 @@ import os
 folder = "./Computer"  # change this to your folder path
 
 # List all image files (adjust extensions as needed)
-images = [f for f in os.listdir(folder) if f.lower().endswith(('.png', '.jpg', '.jpeg', '.gif'))]
+images = [f for f in os.listdir(folder) if f.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.xcf'))]
 
 # Make two-column rows
 table = "| Preview | Filename | Preview | Filename |\n"
