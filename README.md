@@ -142,6 +142,27 @@ Computer:
 | [![waterfall](Computer/waterfall.png)](Computer/waterfall.png) | waterfall.png | [![wave](Computer/wave.jpg)](Computer/wave.jpg) | wave.jpg |
 | [![waves](Computer/waves.png)](Computer/waves.png) | waves.png | [![wheat](Computer/wheat.png)](Computer/wheat.png) | wheat.png |
 | [![white](Computer/white.png)](Computer/white.png) | white.png | | |
+| [![108948084_p0](Computer/108948084_p0.png)](Computer/108948084_p0.png) | 108948084_p0.png | [![114133447_p0](Computer/114133447_p0.png)](Computer/114133447_p0.png) | 114133447_p0.png |
+| [![114753344_p0](Computer/114753344_p0.png)](Computer/114753344_p0.png) | 114753344_p0.png | [![5m5kLI9](Computer/5m5kLI9.png)](Computer/5m5kLI9.png) | 5m5kLI9.png |
+| [![after_school_stroll_gruvbox](Computer/after_school_stroll_gruvbox.png)](Computer/after_school_stroll_gruvbox.png) | after_school_stroll_gruvbox.png | [![anime_girl_plus_rockets](Computer/anime_girl_plus_rockets.png)](Computer/anime_girl_plus_rockets.png) | anime_girl_plus_rockets.png |
+| [![anime_skull](Computer/anime_skull.png)](Computer/anime_skull.png) | anime_skull.png | [![animeskull](Computer/animeskull.png)](Computer/animeskull.png) | animeskull.png |
+| [![cherry-blossom](Computer/cherry-blossom.png)](Computer/cherry-blossom.png) | cherry-blossom.png | [![classroom](Computer/classroom.jpg)](Computer/classroom.jpg) | classroom.jpg |
+| [![cyber-asian-girl-1080](Computer/cyber-asian-girl-1080.png)](Computer/cyber-asian-girl-1080.png) | cyber-asian-girl-1080.png | [![DemonChild](Computer/DemonChild.png)](Computer/DemonChild.png) | DemonChild.png |
+| [![elias](Computer/elias.jpg)](Computer/elias.jpg) | elias.jpg | [![Faroeste](Computer/Faroeste.jpg)](Computer/Faroeste.jpg) | Faroeste.jpg |
+| [![frieren_gruvbox](Computer/frieren_gruvbox.png)](Computer/frieren_gruvbox.png) | frieren_gruvbox.png | [![gankutsuou](Computer/gankutsuou.jpg)](Computer/gankutsuou.jpg) | gankutsuou.jpg |
+| [![ghibli-japanese-walled-garden](Computer/ghibli-japanese-walled-garden.png)](Computer/ghibli-japanese-walled-garden.png) | ghibli-japanese-walled-garden.png | [![girl-2](Computer/girl-2.png)](Computer/girl-2.png) | girl-2.png |
+| [![girl-3](Computer/girl-3.png)](Computer/girl-3.png) | girl-3.png | [![girl](Computer/girl.png)](Computer/girl.png) | girl.png |
+| [![glt_gruvbox](Computer/glt_gruvbox.png)](Computer/glt_gruvbox.png) | glt_gruvbox.png | [![grey_lain_wallpaper](Computer/grey_lain_wallpaper.jpg)](Computer/grey_lain_wallpaper.jpg) | grey_lain_wallpaper.jpg |
+| [![gruvbox_girl](Computer/gruvbox_girl.png)](Computer/gruvbox_girl.png) | gruvbox_girl.png | [![gruv-wallhaven-011km1](Computer/gruv-wallhaven-011km1.png)](Computer/gruv-wallhaven-011km1.png) | gruv-wallhaven-011km1.png |
+| [![gruv-wallhaven-4gmevq](Computer/gruv-wallhaven-4gmevq.png)](Computer/gruv-wallhaven-4gmevq.png) | gruv-wallhaven-4gmevq.png | [![gruv-wallhaven-l3y2p2](Computer/gruv-wallhaven-l3y2p2.png)](Computer/gruv-wallhaven-l3y2p2.png) | gruv-wallhaven-l3y2p2.png |
+| [![gruv-wallhaven-m9e9m1](Computer/gruv-wallhaven-m9e9m1.png)](Computer/gruv-wallhaven-m9e9m1.png) | gruv-wallhaven-m9e9m1.png | [![gruv-wallhaven-pkzoj3](Computer/gruv-wallhaven-pkzoj3.png)](Computer/gruv-wallhaven-pkzoj3.png) | gruv-wallhaven-pkzoj3.png |
+| [![ign-waifu](Computer/ign-waifu.png)](Computer/ign-waifu.png) | ign-waifu.png | [![initialdgruvlight](Computer/initialdgruvlight.png)](Computer/initialdgruvlight.png) | initialdgruvlight.png |
+| [![joyboy](Computer/joyboy.png)](Computer/joyboy.png) | joyboy.png | [![Kita](Computer/Kita.png)](Computer/Kita.png) | Kita.png |
+| [![komeiji-koishi](Computer/komeiji-koishi.png)](Computer/komeiji-koishi.png) | komeiji-koishi.png | [![kurotani](Computer/kurotani.jpg)](Computer/kurotani.jpg) | kurotani.jpg |
+| [![Kurumi-Ebisuzawa](Computer/Kurumi-Ebisuzawa.png)](Computer/Kurumi-Ebisuzawa.png) | Kurumi-Ebisuzawa.png | [![Kojiro](Computer/Kojiro.png)](Computer/Kojiro.png) | Kojiro.png |
+| [![Mandalorian](Computer/Mandalorian.jpg)](Computer/Mandalorian.jpg) | Mandalorian.jpg | [![momo_ayase_centered_gruvbox](Computer/momo_ayase_centered_gruvbox.png)](Computer/momo_ayase_centered_gruvbox.png) | momo_ayase_centered_gruvbox.png |
+| [![momo_ayase_gruvbox](Computer/momo_ayase_gruvbox.png)](Computer/momo_ayase_gruvbox.png) | momo_ayase_gruvbox.png | [![my-neighbor-totoro-sunflowers-gruvbox](Computer/my-neighbor-totoro-sunflowers-gruvbox.png)](Computer/my-neighbor-totoro-sunflowers-gruvbox.png) | my-neighbor-totoro-sunflowers-gruvbox.png |
+| [![satellites](Computer/satellites.png)](Computer/satellites.png) | satellites.png | [![The-Wind-Rises](Computer/The-Wind-Rises.jpg)](Computer/The-Wind-Rises.jpg) | The-Wind-Rises.jpg |
 
 Phone:
 | Preview | Filename | Preview | Filename |
