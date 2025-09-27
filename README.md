@@ -163,6 +163,22 @@ Computer:
 | [![Mandalorian](Computer/Mandalorian.jpg)](Computer/Mandalorian.jpg) | Mandalorian.jpg | [![momo_ayase_centered_gruvbox](Computer/momo_ayase_centered_gruvbox.png)](Computer/momo_ayase_centered_gruvbox.png) | momo_ayase_centered_gruvbox.png |
 | [![momo_ayase_gruvbox](Computer/momo_ayase_gruvbox.png)](Computer/momo_ayase_gruvbox.png) | momo_ayase_gruvbox.png | [![my-neighbor-totoro-sunflowers-gruvbox](Computer/my-neighbor-totoro-sunflowers-gruvbox.png)](Computer/my-neighbor-totoro-sunflowers-gruvbox.png) | my-neighbor-totoro-sunflowers-gruvbox.png |
 | [![satellites](Computer/satellites.png)](Computer/satellites.png) | satellites.png | [![The-Wind-Rises](Computer/The-Wind-Rises.jpg)](Computer/The-Wind-Rises.jpg) | The-Wind-Rises.jpg |
+| [![amdgruvblu](Computer/amdgruvblu.png)](Computer/amdgruvblu.png) | amdgruvblu.png | [![amdgruvgreen](Computer/amdgruvgreen.png)](Computer/amdgruvgreen.png) | amdgruvgreen.png |
+| [![amdgruvlightblu](Computer/amdgruvlightblu.png)](Computer/amdgruvlightblu.png) | amdgruvlightblu.png | [![amdgruvlightgreen](Computer/amdgruvlightgreen.png)](Computer/amdgruvlightgreen.png) | amdgruvlightgreen.png |
+| [![amdgruvlightorange](Computer/amdgruvlightorange.png)](Computer/amdgruvlightorange.png) | amdgruvlightorange.png | [![amdgruvlightred](Computer/amdgruvlightred.png)](Computer/amdgruvlightred.png) | amdgruvlightred.png |
+| [![amdgruvorange](Computer/amdgruvorange.png)](Computer/amdgruvorange.png) | amdgruvorange.png | [![amdgruvred](Computer/amdgruvred.png)](Computer/amdgruvred.png) | amdgruvred.png |
+| [![arch-linux](Computer/arch-linux.png)](Computer/arch-linux.png) | arch-linux.png | [![awesome](Computer/awesome.png)](Computer/awesome.png) | awesome.png |
+| [![debian_grey_swirl](Computer/debian_grey_swirl.png)](Computer/debian_grey_swirl.png) | debian_grey_swirl.png | [![gruvbox_kubuntuGear](Computer/gruvbox_kubuntuGear.jpg)](Computer/gruvbox_kubuntuGear.jpg) | gruvbox_kubuntuGear.jpg |
+| [![gruvbox_light_linux](Computer/gruvbox_light_linux.png)](Computer/gruvbox_light_linux.png) | gruvbox_light_linux.png | [![gruvbox-nix](Computer/gruvbox-nix.png)](Computer/gruvbox-nix.png) | gruvbox-nix.png |
+| [![gruvbox-rainbow-nix](Computer/gruvbox-rainbow-nix.png)](Computer/gruvbox-rainbow-nix.png) | gruvbox-rainbow-nix.png | [![gruvbox_ubuntu](Computer/gruvbox_ubuntu.png)](Computer/gruvbox_ubuntu.png) | gruvbox_ubuntu.png |
+| [![gruvbox_ubuntu-splash](Computer/gruvbox_ubuntu-splash.jpg)](Computer/gruvbox_ubuntu-splash.jpg) | gruvbox_ubuntu-splash.jpg | [![Manjaro](Computer/Manjaro.jpg)](Computer/Manjaro.jpg) | Manjaro.jpg |
+| [![netbsd-light](Computer/netbsd-light.png)](Computer/netbsd-light.png) | netbsd-light.png | [![netbsd](Computer/netbsd.png)](Computer/netbsd.png) | netbsd.png |
+| [![nixos](Computer/nixos.png)](Computer/nixos.png) | nixos.png | [![nix](Computer/nix.png)](Computer/nix.png) | nix.png |
+| [![nvgruvgreen](Computer/nvgruvgreen.png)](Computer/nvgruvgreen.png) | nvgruvgreen.png | [![nvgruvlightgreen](Computer/nvgruvlightgreen.png)](Computer/nvgruvlightgreen.png) | nvgruvlightgreen.png |
+| [![nvim](Computer/nvim.png)](Computer/nvim.png) | nvim.png | [![sve](Computer/sve.png)](Computer/sve.png) | sve.png |
+| [![tux](Computer/tux.png)](Computer/tux.png) | tux.png | [![UbuntuGnome](Computer/UbuntuGnome.png)](Computer/UbuntuGnome.png) | UbuntuGnome.png |
+| [![Windows-2](Computer/Windows-2.png)](Computer/Windows-2.png) | Windows-2.png | [![Windows](Computer/Windows.png)](Computer/Windows.png) | Windows.png |
+
 
 Phone:
 | Preview | Filename | Preview | Filename |
