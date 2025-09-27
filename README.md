@@ -238,7 +238,7 @@ Phone:
 |---------|----------|---------|----------|
 | [![oneshot-wm](Phone/oneshot-wm.png)](Phone/oneshot-wm.png) | oneshot-wm.png | [![oneshot-wm-en](Phone/oneshot-wm-en.png)](Phone/oneshot-wm-en.png) | oneshot-wm-en.jpg |
 
-**Note: Some wallpapers may not be listed here, often due to the fact I get wallpapers in bulk and I can't write individual ones as such into here so, if you need more wallpapers please check out the individual folders**
+Note: Some wallpapers may not be listed here, often due to the fact I get wallpapers in bulk and I can't write individual ones as such into here so, if you need more wallpapers please check out the individual folders
 ---
 
 ### INTELLECTUAL PROPERTY AND LIABILITY DISCLAIMER
