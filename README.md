@@ -172,4 +172,39 @@ Phone:
 **Note: Some wallpapers may not be listed here, often due to the fact I get wallpapers in bulk and I can't write individual ones as such into here so, if you need more wallpapers please check out the individual folders**
 ---
 
-**Disclaimer: I do not own, claim ownership of, or hold any intellectual property rights to the images contained in this collection. These materials are provided exclusively for personal, non-commercial use and for incorporation into authorized forks of this repository. All images have been lawfully obtained through legitimate channels and are distributed in strict compliance with applicable copyright laws, fair use provisions, and licensing agreements. Users who access, download, fork, or otherwise utilize materials from this repository do so independently as third parties without any form of endorsement, authorization, or agency relationship with the repository maintainer. Each user assumes complete and sole responsibility for ensuring their intended use complies with all applicable intellectual property laws, licensing requirements, and jurisdictional regulations governing their specific use case. The repository maintainer hereby expressly disclaims, to the fullest extent permitted by law, any and all liability, responsibility, or legal obligation for copyright infringement claims, intellectual property disputes, licensing violations, legal actions, damages, or any other consequences arising from users' application, modification, distribution, or commercialization of these materials beyond the explicitly permitted scope of personal use. Any commercial use, public distribution, modification for profit, or incorporation into commercial products or services is undertaken entirely at the user's own risk and constitutes their independent legal responsibility without recourse to the repository maintainer.**
+### INTELLECTUAL PROPERTY AND LIABILITY DISCLAIMER
+
+### Section I: Ownership and Rights Declaration
+
+The repository maintainer expressly disclaims any ownership, proprietary interest, or intellectual property rights in the images and materials contained within this collection. All materials have been sourced through lawful means and are made available subject to the terms and limitations set forth herein.
+### Section II: Authorized Use Parameters
+
+Access to and utilization of these materials is granted exclusively for:
+- Personal, non-commercial applications
+- Integration into authorized repository forks
+- Educational and research purposes consistent with fair use doctrine
+
+All usage must remain in strict accordance with applicable copyright statutes, licensing agreements, and jurisdictional intellectual property regulations.
+### Section III: Third-Party User Responsibilities
+Users accessing, downloading, or incorporating materials from this repository operate as independent third parties without any agency, partnership, or representative relationship with the repository maintainer. Each user bears sole and complete responsibility for:
+- Conducting due diligence regarding intellectual property clearances
+- Ensuring compliance with all applicable licensing requirements
+- Verifying adherence to jurisdictional copyright and trademark laws
+- Obtaining necessary permissions for any use beyond the scope explicitly authorized herein
+
+### Section IV: Prohibited Activities
+The following activities are expressly prohibited and undertaken entirely at user's own legal and financial risk:
+- Commercial exploitation or monetization of materials
+- Public distribution outside authorized parameters  
+- Modification for profit or commercial gain
+- Integration into commercial products or services without proper authorization
+
+### Section V: Comprehensive Liability Limitation
+The repository maintainer hereby disclaims, to the maximum extent permitted by applicable law, all liability for:
+- Copyright infringement claims or intellectual property disputes
+- Licensing violations or contractual breaches
+- Legal proceedings, damages, or financial penalties
+- Direct, indirect, consequential, or punitive damages arising from user activities
+- Any claims, actions, or consequences resulting from user's independent application of these materials
+
+All of these may apply to any uses (up to applicable laws) of this repositories and its contents and I AM NOT HELD RESPONSIBLE for any legal claims against you if you did use this repositories, I am simply distributing the contents and not permitting you to do illegal stuff
