@@ -397,7 +397,7 @@ Phone:
 ![](./Phone/oneshot-wm-en.png) | oneshot-wm-en.png | ![](./Phone/ruines.jpg) | ruines.jpg |
 ![](./Phone/oneshot-wm.png) | oneshot-wm.png | ![](./Phone/hollow-knight.png) | hollow-knight.png |
 
-Note: Since most of the PSP wallpapers are just wallpapers from 'Computer' but downscaled so I won't list it here, the script to downscale and also make list for the files are also there if you need to fork this repository 
+Note: Since most of the PSP wallpapers are just wallpapers from 'Computer' but downscaled, I won't list it here, the script to downscale and also make the table to list the files are also there if you need to fork this repository
 
 ---
 
