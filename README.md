@@ -398,6 +398,8 @@ Phone:
 ![](./Phone/oneshot-wm-en.png) | oneshot-wm-en.png | ![](./Phone/ruines.jpg) | ruines.jpg |
 ![](./Phone/oneshot-wm.png) | oneshot-wm.png | ![](./Phone/hollow-knight.png) | hollow-knight.png |
 
+Note: Since most of the PSP wallpapers are just wallpapers from 'Computer' but downscaled so I won't list it here, the script to downscale and also make list for the files are also there if you need to fork this repository 
+
 ---
 
 ### INTELLECTUAL PROPERTY AND LIABILITY DISCLAIMER
@@ -435,4 +437,4 @@ The repository maintainer hereby disclaims, to the maximum extent permitted by a
 - Direct, indirect, consequential, or punitive damages arising from user activities
 - Any claims, actions, or consequences resulting from user's independent application of these materials
 
-All of these may apply to any uses (up to applicable laws) of this repositories and its contents and I AM NOT HELD RESPONSIBLE for any legal claims against you if you did use this repositories, I am simply distributing the contents and not permitting you to do illegal stuff
+All of these may apply to any uses (up to applicable laws) of this repository and its contents and I AM NOT HELD RESPONSIBLE for any legal claims against you if you did use this repository, I am simply distributing the contents and not permitting you to do illegal stuff
