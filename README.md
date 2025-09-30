@@ -437,3 +437,15 @@ The repository maintainer hereby disclaims, to the maximum extent permitted by a
 - Any claims, actions, or consequences resulting from user's independent application of these materials
 
 All of these may apply to any uses (up to applicable laws) of this repository and its contents and I AM NOT HELD RESPONSIBLE for any legal claims against you if you did use this repository, I am simply distributing the contents and not permitting you to do illegal stuff
+
+---
+
+Components I used in this repository
+- Python: For writing script to automate writing tables and downscaling
+- Pillow (Python library): For image manipulation purposes
+- Github: For distributing the repository
+
+Special thanks to:
+- The people who made the wallpapers: Your work will be appreciated
+- ChatGPT (OpenAI): For the creation of the scripts
+- Claude: For fixing up the scripts and also writing the disclaimer
