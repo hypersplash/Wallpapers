@@ -442,10 +442,10 @@ All of these may apply to any uses (up to applicable laws) of this repository an
 
 Components I used in this repository
 - Python: For writing script to automate writing tables and downscaling
-- Pillow (Python library): For image manipulation purposes
+- Pillow (Python library): For image manipulation
 - Github: For distributing the repository
+- ChatGPT (OpenAI): For creating the scripts
+- Claude: For fixing up the scripts and also writing the disclaimer
 
 Special thanks to:
 - The people who made the wallpapers: Your work will be appreciated
-- ChatGPT (OpenAI): For the creation of the scripts
-- Claude: For fixing up the scripts and also writing the disclaimer
