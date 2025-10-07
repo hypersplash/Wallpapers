@@ -397,7 +397,7 @@ Phone:
 
 Note: Since most of the PSP wallpapers are just wallpapers from 'Computer' but downscaled, I won't list it here, the script to downscale and also make the table to list the files are also there if you need to fork this repository. I also include a WebP to PNG converter within the repository, and with the examples in the Input and Output folders, feel free to use it also
 
-Second Note: All of the scripts that I made here are made by AI, it's not by any mean am I promoting AI programming or vibe coding, I only do it for time cutting purposes
+Note^2: All of the scripts that I made here are made by AI, I am not promoting AI programming or vibe coding by any mean, it's only because I have limited time to finish this
 
 ---
 
