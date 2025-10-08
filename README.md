@@ -395,13 +395,7 @@ Phone:
 ![](./Phone/oneshot-wm-en.png) | oneshot-wm-en.png | ![](./Phone/ruines.jpg) | ruines.jpg |
 ![](./Phone/oneshot-wm.png) | oneshot-wm.png | ![](./Phone/hollow-knight.png) | hollow-knight.png |
 
-<<<<<<< HEAD
-Note: All of the scripts here are made by AI, I am not promoting using AI to code or vibe coding by any mean, I only do it because I don't have time to write any of those in the making of this repository
-=======
-Note: Since most of the PSP wallpapers are just wallpapers from 'Computer' but downscaled, I won't list it here, the script to downscale and also make the table to list the files are also there if you need to fork this repository. I also include a WebP to PNG converter within the repository, and with the examples in the Input and Output folders, feel free to use it also
-
-Note^2: All of the scripts that I made here are made by AI, I am not promoting AI programming or vibe coding by any mean, it's only because I have limited time to finish this
->>>>>>> f3c546d98887220fbbff1cc389ac700bd18782c3
+Note: All of the scripts here are made by AI, I am not promoting using AI to code or vibe coding by any mean, I use it simply because I don't have time to write any of those in the making of this repository
 
 ---
 
