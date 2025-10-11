@@ -447,3 +447,5 @@ Components I used in this repository
 
 Special thanks to:
 - The people who made the wallpapers: Your work will be appreciated
+
+If there are any copyright claims, duplicated wallpapers or simply unwanted wallpapers in the repository that you want to be removed, please issue it and I'll try to remove it asap
