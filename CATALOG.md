@@ -435,6 +435,16 @@ Computer:
 Phone:
 | Preview | Filename | Preview | Filename |
 |---------|---------|---------|---------|
-![](./Phone/5.png) | 5.png | ![](./Phone/2.png) | 2.png |
-![](./Phone/6.png) | 6.png | ![](./Phone/1.png) | 1.png |
-![](./Phone/4.jpg) | 4.jpg | ![](./Phone/3.png) | 3.png |
+![](./Phone/24.jpg) | 24.jpg | ![](./Phone/20.jpg) | 20.jpg |
+![](./Phone/5.png) | 5.png | ![](./Phone/13.jpg) | 13.jpg |
+![](./Phone/15.jpg) | 15.jpg | ![](./Phone/17.png) | 17.png |
+![](./Phone/8.png) | 8.png | ![](./Phone/2.png) | 2.png |
+![](./Phone/10.png) | 10.png | ![](./Phone/19.png) | 19.png |
+![](./Phone/25.png) | 25.png | ![](./Phone/6.png) | 6.png |
+![](./Phone/14.jpg) | 14.jpg | ![](./Phone/1.png) | 1.png |
+![](./Phone/7.png) | 7.png | ![](./Phone/4.jpg) | 4.jpg |
+![](./Phone/16.png) | 16.png | ![](./Phone/18.png) | 18.png |
+![](./Phone/21.png) | 21.png | ![](./Phone/11.png) | 11.png |
+![](./Phone/12.png) | 12.png | ![](./Phone/9.png) | 9.png |
+![](./Phone/23.png) | 23.png | ![](./Phone/22.png) | 22.png |
+![](./Phone/3.png) | 3.png |  |  |
