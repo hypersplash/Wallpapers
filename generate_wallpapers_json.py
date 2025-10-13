@@ -13,7 +13,7 @@ def generate_json(folder):
     print(f'✅ {folder}/wallpapers.json written with {len(files)} wallpapers.')
 
 if __name__ == "__main__":
-    for folder in ["Computer", "Phone"]:
+    for folder in ["PSP", "Phone"]:
         if os.path.isdir(folder):
             generate_json(folder)
         else:
