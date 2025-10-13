@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Computer Wallpapers — hypersplash</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav>
+    <h1>hypersplash / Wallpapers</h1>
+    <ul>
+      <li><a href="computer_tab.html" class="active">Computer</a></li>
+      <li><a href="phone_tab.html">Phone</a></li>
+    </ul>
+  </nav>
+
+  <div class="controls">
+    <input type="text" placeholder="Search..." oninput="searchImages(this)">
+    <button onclick="sortImages()">⇅</button>
+    <button onclick="toggleTheme()">🌗</button>
+  </div>
+
+  <main>
+    <div id="gallery" class="gallery"></div>
+  </main>
+
+  <script src="script.js"></script>
+  <script>loadWallpapers('Computer');</script>
+</body>
+</html>
