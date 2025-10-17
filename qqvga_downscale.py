@@ -2,14 +2,16 @@ from PIL import Image, ImageFilter, ImageEnhance
 import os
 
 # ----- CONFIG -----
-input_folder = "Phone"
-output_folder = "QQVGA"
-target_resolution = (120, 160)
-sharpen_amount = 1.3  # 1.0 = normal, 1.5 = extra sharp
+input_folder = "Phone"          # Folder with your original images
+output_folder = "QQVGA"         # Output folder
+target_resolution = (120, 160)  # QQVGA resolution (note: width x height)
+sharpen_amount = 1.3            # 1.0 = normal, 1.5 = extra sharp
 # ------------------
 
 os.makedirs(output_folder, exist_ok=True)
 extensions = (".png", ".jpg", ".jpeg")
+
+target_w, target_h = target_resolution
 
 for filename in os.listdir(input_folder):
     if filename.lower().endswith(extensions):
@@ -17,34 +19,30 @@ for filename in os.listdir(input_folder):
         output_path = os.path.join(output_folder, filename)
 
         img = Image.open(input_path)
-        orig_w, orig_h = img.size
-        target_w, target_h = target_resolution
-        orig_ratio = orig_w / orig_h
-        target_ratio = target_w / target_h
+        src_w, src_h = img.size
 
-        # Scale to fill (only once)
-        if orig_ratio > target_ratio:
-            new_h = target_h
-            new_w = int(new_h * orig_ratio)
-        else:
-            new_w = target_w
-            new_h = int(new_w / orig_ratio)
+        # Step 1: maintain aspect ratio (scale to fill)
+        scale = max(target_w / src_w, target_h / src_h)
+        new_w = int(src_w * scale)
+        new_h = int(src_h * scale)
+        img_resized = img.resize((new_w, new_h), Image.BICUBIC)
 
-        img = img.resize((new_w, new_h), Image.BICUBIC)
-
-        # Center crop
+        # Step 2: crop to target size (centered)
         left = (new_w - target_w) // 2
         top = (new_h - target_h) // 2
-        img = img.crop((left, top, left + target_w, top + target_h))
+        right = left + target_w
+        bottom = top + target_h
+        img_cropped = img_resized.crop((left, top, right, bottom))
 
-        # Optional: slight sharpening
-        img = img.filter(ImageFilter.SHARPEN)
-        enhancer = ImageEnhance.Sharpness(img)
-        img = enhancer.enhance(sharpen_amount)
+        # Step 3: sharpen + enhance
+        img_cropped = img_cropped.filter(ImageFilter.SHARPEN)
+        enhancer = ImageEnhance.Sharpness(img_cropped)
+        img_final = enhancer.enhance(sharpen_amount)
 
-        # Save final image
-        img = img.convert("RGB")
-        img.save(output_path, quality=95)
-        print(f"Downscaled + sharpened {filename} → {target_resolution}")
+        # Step 4: save
+        img_final = img_final.convert("RGB")
+        img_final.save(output_path, quality=95)
 
-print("✅ All images crisped up and saved to 'QQVGA'!")
+        print(f"Processed {filename}: scaled to {new_w}x{new_h}, cropped & sharpened → {target_w}x{target_h}")
+
+print("✅ All images resized, cropped, and sharpened for QQVGA output!")
