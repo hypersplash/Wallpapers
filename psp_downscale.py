@@ -1,10 +1,10 @@
-from PIL import Image
+from PIL import Image, UnidentifiedImageError
 import os
 
 # ----- CONFIG -----
-input_folder = "Computer"      # Folder with your original images
-output_folder = "PSP"          # PSP output folder in the current directory
-target_resolution = (480, 272) # PSP screen resolution
+input_folder = "Computer"       # Folder with your original images
+output_folder = "PSP"           # PSP output folder in the current directory
+target_resolution = (480, 272)  # PSP screen resolution
 # ------------------
 
 # Create output folder if it doesn't exist
@@ -20,25 +20,31 @@ for filename in os.listdir(input_folder):
         input_path = os.path.join(input_folder, filename)
         output_path = os.path.join(output_folder, filename)
 
-        # Open image
-        img = Image.open(input_path)
-        src_w, src_h = img.size
+        try:
+            # Open image safely
+            img = Image.open(input_path)
+            img.load()  # Force load to catch broken files
 
-        # Step 1: maintain aspect ratio (scale to fill)
-        scale = max(target_w / src_w, target_h / src_h)
-        new_w = int(src_w * scale)
-        new_h = int(src_h * scale)
-        img_resized = img.resize((new_w, new_h), Image.LANCZOS)
+            src_w, src_h = img.size
 
-        # Step 2: crop to target size (centered)
-        left = (new_w - target_w) // 2
-        top = (new_h - target_h) // 2
-        right = left + target_w
-        bottom = top + target_h
-        img_cropped = img_resized.crop((left, top, right, bottom))
+            # Step 1: maintain aspect ratio (scale to fill)
+            scale = max(target_w / src_w, target_h / src_h)
+            new_w = int(src_w * scale)
+            new_h = int(src_h * scale)
+            img_resized = img.resize((new_w, new_h), Image.LANCZOS)
 
-        # Step 3: save result
-        img_cropped.save(output_path)
-        print(f"Processed {filename}: scaled to {new_w}x{new_h}, cropped to {target_w}x{target_h}")
+            # Step 2: crop to target size (centered)
+            left = (new_w - target_w) // 2
+            top = (new_h - target_h) // 2
+            right = left + target_w
+            bottom = top + target_h
+            img_cropped = img_resized.crop((left, top, right, bottom))
 
-print("✅ All images scaled, cropped, and saved perfectly for PSP!")
+            # Step 3: save result
+            img_cropped.save(output_path)
+            print(f"✅ Processed {filename}: scaled to {new_w}x{new_h}, cropped to {target_w}x{target_h}")
+
+        except (OSError, UnidentifiedImageError) as e:
+            print(f"⚠ Skipping {filename} — cannot read image: {e}")
+
+print("🎉 All readable images processed for PSP!")
