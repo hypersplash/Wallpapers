@@ -10,7 +10,7 @@ os.makedirs(output_dir, exist_ok=True)
 
 # Loop through files in input directory
 for file_name in os.listdir(input_dir):
-    if file_name.lower().endswith(".webp"):  # only webp files
+    if file_name.lower().endswith((".webp", ".avif")):
         input_path = os.path.join(input_dir, file_name)
         output_name = os.path.splitext(file_name)[0] + ".png"
         output_path = os.path.join(output_dir, output_name)
