@@ -42,18 +42,18 @@ The repository maintainer hereby disclaims, to the maximum extent permitted by a
 - Direct, indirect, consequential, or punitive damages arising from user activities
 - Any claims, actions, or consequences resulting from user's independent application of these materials
 
-All of these may apply to any uses (up to applicable laws) of this repository and its contents and I AM NOT HELD RESPONSIBLE for any legal claims against you if you did use this repository, I am simply distributing the contents and not permitting you to do illegal stuff
+All of these may apply to any uses (up to applicable laws) of this repository and its contents and I AM NOT HELD RESPONSIBLE for any legal claims against you if you did use this repository, I am simply distributing the contents and not permitting you to do illegal stuff with it
 
 ---
 
 Components I used in this repository
 - Python: For writing script to automate writing tables and downscaling
 - Pillow (Python library): For image manipulation
-- Github: For distributing the repository
+- GitHub: For distributing the repository
 - ChatGPT (OpenAI): For creating the scripts
 - Claude: For fixing up the scripts and also writing the disclaimer
 
 Special thanks to:
 - The people who made the wallpapers: Your work will be appreciated
 
-If there are any copyright claims, duplicated wallpapers or simply unwanted wallpapers in the repository that you want to be removed, please issue it and I'll try to remove it asap
+If there are any copyright claims, duplicated wallpapers or simply unwanted wallpapers in the repository that you want to be removed, please issue it and I'll try to remove it asap!
