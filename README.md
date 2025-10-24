@@ -2,8 +2,7 @@
 A collection of wallpapers that I found off the internet
 
 Note: All of the scripts here are made by AI, I am not promoting using AI to code or vibe coding by any mean, I use it simply because I don't have time to write any of those in the making of this repository
-
-Note^2: The previews has been moved to CATALOG.md, please check that out if you need a preview of all the wallpapers (can get quite laggy if you're viewing on a bad network or browser)
+The previews has been moved to CATALOG.md, please check that out if you need a preview of all the wallpapers (can get quite laggy if you're viewing on a bad network or browser)
 
 ---
 
