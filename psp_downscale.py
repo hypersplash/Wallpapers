@@ -1,50 +1,57 @@
 from PIL import Image, UnidentifiedImageError
 import os
+from concurrent.futures import ThreadPoolExecutor
+from pathlib import Path
 
 # ----- CONFIG -----
-input_folder = "Computer"       # Folder with your original images
-output_folder = "PSP"           # PSP output folder in the current directory
-target_resolution = (480, 272)  # PSP screen resolution
+input_folder = "Computer"
+output_folder = "PSP"
+target_resolution = (480, 272)
+max_workers = 4  # Adjust based on your CPU cores
 # ------------------
 
-# Create output folder if it doesn't exist
 os.makedirs(output_folder, exist_ok=True)
-
-# Supported extensions
 extensions = (".png", ".jpg", ".jpeg")
-
 target_w, target_h = target_resolution
 
-for filename in os.listdir(input_folder):
-    if filename.lower().endswith(extensions):
-        input_path = os.path.join(input_folder, filename)
-        output_path = os.path.join(output_folder, filename)
+def process_image(filename):
+    """Process a single image - designed for parallel execution"""
+    input_path = os.path.join(input_folder, filename)
+    output_path = os.path.join(output_folder, filename)
 
-        try:
-            # Open image safely
-            img = Image.open(input_path)
-            img.load()  # Force load to catch broken files
-
+    try:
+        with Image.open(input_path) as img:
+            img.load()
             src_w, src_h = img.size
 
-            # Step 1: maintain aspect ratio (scale to fill)
+            # Scale to fill
             scale = max(target_w / src_w, target_h / src_h)
             new_w = int(src_w * scale)
             new_h = int(src_h * scale)
+
+            # Use LANCZOS for quality, BILINEAR for speed
             img_resized = img.resize((new_w, new_h), Image.LANCZOS)
 
-            # Step 2: crop to target size (centered)
+            # Centered crop
             left = (new_w - target_w) // 2
             top = (new_h - target_h) // 2
-            right = left + target_w
-            bottom = top + target_h
-            img_cropped = img_resized.crop((left, top, right, bottom))
+            img_cropped = img_resized.crop((left, top, left + target_w, top + target_h))
 
-            # Step 3: save result
-            img_cropped.save(output_path)
-            print(f"✅ Processed {filename}: scaled to {new_w}x{new_h}, cropped to {target_w}x{target_h}")
+            # Save with optimization
+            img_cropped.save(output_path, optimize=True, quality=85)
 
-        except (OSError, UnidentifiedImageError) as e:
-            print(f"⚠ Skipping {filename} — cannot read image: {e}")
+        return f"✅ Processed {filename}: {new_w}x{new_h} → {target_w}x{target_h}"
+
+    except (OSError, UnidentifiedImageError) as e:
+        return f"⚠ Skipped {filename}: {e}"
+
+# Get all image files
+image_files = [f for f in os.listdir(input_folder) if f.lower().endswith(extensions)]
+
+# Process in parallel
+with ThreadPoolExecutor(max_workers=max_workers) as executor:
+    results = executor.map(process_image, image_files)
+    for result in results:
+        print(result)
 
 print("🎉 All readable images processed for PSP!")
