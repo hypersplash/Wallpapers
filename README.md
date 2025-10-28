@@ -2,7 +2,7 @@
 
 A curated collection of wallpapers I found online.  
 
-> **Note:** All scripts used here were generated with AI for convenience. This repository is **not promoting AI coding**—these scripts simply save time.
+> **Note:** All scripts used here were generated with AI for convenience. This repository is **not promoting "vibe coding" (a.k.a coding using purely or heavily dependent on AI)**—they were only used for convenience.
 
 Previews are now in [`CATALOG.md`](CATALOG.md) to avoid browser/network lag.  
 
