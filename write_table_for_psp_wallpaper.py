@@ -1,7 +1,7 @@
 import os
 
 # Path to your folder
-folder = "./PSP"  # change this to your folder path
+folder = "./Input"  # change this to your folder path
 
 # List all image files (adjust extensions as needed)
 images = [f for f in os.listdir(folder) if f.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.xcf'))]
