@@ -4,8 +4,8 @@ from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 # ----- CONFIG -----
-input_folder = "Input"
-output_folder = "Output"
+input_folder = "Computer"
+output_folder = "PSP"
 target_resolution = (480, 272)
 max_workers = 4  # Adjust based on your CPU cores
 # ------------------
