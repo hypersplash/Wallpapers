@@ -102,7 +102,7 @@ def compress_folder(folder_path, password, max_size_mb=500):
         return False
 
 def main():
-    folders = ['./Computer', './Phone', './PSP', './QQVGA']
+    folders = ['./Computer', './Phone', './PSP']
     password = get_date_password()
 
     print(f"Password: {password}")
