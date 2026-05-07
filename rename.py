@@ -1,62 +1,73 @@
-import os
-import random
-import shutil
+from pathlib import Path
+import uuid
 
-def random_rename(folder_path):
-    """
-    Renames ALL files in folder_path to: [random_digit].[original_extension]
-    - No files are skipped
-    - Numbers are assigned sequentially from 1 to N (where N = number of files)
-    - Then shuffled randomly to avoid predictable patterns
-    - Guarantees no gaps or jumps in the number sequence
-    - Uses a temp folder to avoid conflicts during rename
-    """
-    # Get all files in the directory (exclude folders)
-    all_files = [
-        f for f in os.listdir(folder_path)
-        if os.path.isfile(os.path.join(folder_path, f))
-    ]
 
-    if not all_files:
-        print(f"⚡ No files found in '{folder_path}'!")
+def is_already_numbered(file_path: Path) -> bool:
+    """
+    Returns True if filename matches: number + extension
+    Example: 1.jpg, 23.png, 7.txt
+    """
+    return file_path.is_file() and file_path.stem.isdigit() and file_path.suffix != ""
+
+
+def random_rename(folder_path: str):
+    folder = Path(folder_path)
+
+    if not folder.is_dir():
+        print(f"⚠ '{folder_path}' is not a valid folder.")
         return
 
-    # Create temp folder
-    temp_folder = os.path.join(folder_path, "_temp_rename")
-    os.makedirs(temp_folder, exist_ok=True)
+    all_files = [p for p in folder.iterdir() if p.is_file()]
 
-    # Generate sequential numbers from 1 to N
-    total_files = len(all_files)
-    numbers = list(range(1, total_files + 1))
-    random.shuffle(numbers)
+    # Keep files already matching: number.extension
+    already_good = [p for p in all_files if is_already_numbered(p)]
 
-    # Build rename mapping
-    rename_map = {}
-    for i, file in enumerate(all_files):
-        file_ext = os.path.splitext(file)[1]
-        new_name = f"{numbers[i]}{file_ext}"
-        rename_map[file] = new_name
+    # Only rename the rest, sorted alphabetically
+    to_rename = sorted(
+        (p for p in all_files if not is_already_numbered(p)),
+        key=lambda p: p.name.casefold()
+    )
 
-    # Phase 1: Move all files to temp folder
-    for old_name in rename_map:
-        old_path = os.path.join(folder_path, old_name)
-        temp_path = os.path.join(temp_folder, old_name)
-        shutil.move(old_path, temp_path)
+    if not to_rename:
+        print(f"✅ No files needed renaming in '{folder_path}'.")
+        return
 
-    # Phase 2: Move files back with new names
-    for old_name, new_name in rename_map.items():
-        temp_path = os.path.join(temp_folder, old_name)
-        final_path = os.path.join(folder_path, new_name)
-        shutil.move(temp_path, final_path)
+    # Numbers already taken by files like 1.jpg, 2.png, etc.
+    used_numbers = {int(p.stem) for p in already_good}
 
-    # Clean up temp folder
-    os.rmdir(temp_folder)
+    # Assign the smallest available number in alphabetical order
+    rename_map = []
+    next_number = 1
 
-    print(f"✅ Renamed {total_files} files in '{folder_path}' → numbers 1-{total_files}, shuffled randomly!")
+    for file_path in to_rename:
+        while next_number in used_numbers:
+            next_number += 1
+
+        new_name = f"{next_number}{file_path.suffix}"
+        rename_map.append((file_path, new_name))
+        used_numbers.add(next_number)
+        next_number += 1
+
+    # Phase 1: rename targets to temporary names
+    temp_map = []
+    for old_path, final_name in rename_map:
+        temp_name = f".__tmp__{uuid.uuid4().hex}{old_path.suffix}"
+        temp_path = folder / temp_name
+        old_path.rename(temp_path)
+        temp_map.append((temp_path, final_name))
+
+    # Phase 2: rename temp names to final names
+    for temp_path, final_name in temp_map:
+        final_path = folder / final_name
+        temp_path.rename(final_path)
+
+    print(f"✅ Renamed {len(to_rename)} file(s) in '{folder_path}' alphabetically.")
+
 
 def main():
     random_rename("./Computer")
     random_rename("./Phone")
+
 
 if __name__ == "__main__":
     main()
